@@ -1,0 +1,1311 @@
+﻿Log file open, 07/12/19 20:51:19
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Game
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.156244
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU:        Intel(R) Core(TM) i7-3520M CPU @ 2.90GHz, GPU: Intel(R) HD Graphics 4000
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.07.13-01.51.20:273][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.07.13-01.51.20:273][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.07.13-01.51.20:273][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Jimena/Desktop/DontPunchMe/Game/Saved/Config/Windows/Engine.ini]
+[2019.07.13-01.51.20:273][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.07.13-01.51.20:273][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.07.13-01.51.20:273][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Jimena/Desktop/DontPunchMe/Game/Saved/Config/Windows/Engine.ini]
+[2019.07.13-01.51.20:273][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Jimena/Desktop/DontPunchMe/Game/Saved/Config/Windows/Engine.ini]
+[2019.07.13-01.51.20:273][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.07.13-01.51.20:273][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.07.13-01.51.20:273][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.07.13-01.51.20:273][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.07.13-01.51.20:273][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.07.13-01.51.20:273][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.07.13-01.51.20:273][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.07.13-01.51.20:274][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.07.13-01.51.20:274][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.07.13-01.51.20:274][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.07.13-01.51.20:274][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.07.13-01.51.20:274][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.07.13-01.51.20:274][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.07.13-01.51.20:274][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Jimena/Desktop/DontPunchMe/Game/Saved/Config/Windows/Engine.ini]
+[2019.07.13-01.51.20:274][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.07.13-01.51.20:274][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.07.13-01.51.20:274][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.07.13-01.51.20:274][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.07.13-01.51.20:274][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.07.13-01.51.20:274][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.07.13-01.51.20:274][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.07.13-01.51.20:274][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.07.13-01.51.20:274][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.07.13-01.51.20:274][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.07.13-01.51.20:274][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.07.13-01.51.20:274][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.07.13-01.51.20:274][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.07.13-01.51.20:274][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Jimena/Desktop/DontPunchMe/Game/Saved/Config/Windows/Engine.ini]
+[2019.07.13-01.51.20:274][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Jimena/Desktop/DontPunchMe/Game/Saved/Config/Windows/Engine.ini]
+[2019.07.13-01.51.20:280][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Jimena/Desktop/DontPunchMe/Game/Saved/Config/Windows/Scalability.ini]
+[2019.07.13-01.51.20:280][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.13-01.51.20:280][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.13-01.51.20:280][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Jimena/Desktop/DontPunchMe/Game/Saved/Config/Windows/Scalability.ini]
+[2019.07.13-01.51.20:280][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.13-01.51.20:280][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Jimena/Desktop/DontPunchMe/Game/Saved/Config/Windows/Scalability.ini]
+[2019.07.13-01.51.20:280][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.13-01.51.20:280][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.13-01.51.20:280][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.13-01.51.20:280][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.13-01.51.20:280][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.13-01.51.20:280][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.13-01.51.20:280][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.13-01.51.20:281][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.13-01.51.20:281][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.13-01.51.20:281][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.13-01.51.20:281][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.13-01.51.20:281][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.13-01.51.20:281][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.13-01.51.20:281][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.13-01.51.20:281][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.13-01.51.20:281][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.13-01.51.20:281][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.13-01.51.20:281][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.13-01.51.20:281][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Jimena/Desktop/DontPunchMe/Game/Saved/Config/Windows/Scalability.ini]
+[2019.07.13-01.51.20:281][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.13-01.51.20:281][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.13-01.51.20:281][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.13-01.51.20:281][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.13-01.51.20:281][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.13-01.51.20:281][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.13-01.51.20:281][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.13-01.51.20:281][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.13-01.51.20:281][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.13-01.51.20:281][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.13-01.51.20:281][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.13-01.51.20:281][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.13-01.51.20:282][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.13-01.51.20:282][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.13-01.51.20:282][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.13-01.51.20:282][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.13-01.51.20:282][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.13-01.51.20:282][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.13-01.51.20:282][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.13-01.51.20:282][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.13-01.51.20:282][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.13-01.51.20:282][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.13-01.51.20:282][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.13-01.51.20:282][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.13-01.51.20:282][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.13-01.51.20:282][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.13-01.51.20:282][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.13-01.51.20:282][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.13-01.51.20:282][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.13-01.51.20:282][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.13-01.51.20:282][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Jimena/Desktop/DontPunchMe/Game/Saved/Config/Windows/Scalability.ini]
+[2019.07.13-01.51.20:282][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.13-01.51.20:282][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.13-01.51.20:282][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.13-01.51.20:282][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.13-01.51.20:283][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.13-01.51.20:283][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.13-01.51.20:283][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.13-01.51.20:283][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.13-01.51.20:283][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Jimena/Desktop/DontPunchMe/Game/Saved/Config/Windows/Scalability.ini]
+[2019.07.13-01.51.20:283][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.13-01.51.20:283][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.13-01.51.20:283][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.13-01.51.20:283][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.13-01.51.20:283][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.13-01.51.20:283][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.13-01.51.20:283][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.13-01.51.20:283][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.13-01.51.20:283][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.13-01.51.20:283][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.13-01.51.20:283][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.13-01.51.20:283][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.13-01.51.20:283][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.13-01.51.20:283][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Jimena/Desktop/DontPunchMe/Game/Saved/Config/Windows/Scalability.ini]
+[2019.07.13-01.51.20:283][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.13-01.51.20:283][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.13-01.51.20:283][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.13-01.51.20:284][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.07.13-01.51.20:306][  0]LogHAL: Display: Platform has ~ 8 GB [8409378816 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.07.13-01.51.20:306][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.07.13-01.51.20:306][  0]LogInit: Going up to parent DeviceProfile []
+[2019.07.13-01.51.20:306][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Jimena/Desktop/DontPunchMe/Game/Saved/Config/Windows/Scalability.ini]
+[2019.07.13-01.51.20:306][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Jimena/Desktop/DontPunchMe/Game/Saved/Config/Windows/Scalability.ini]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Jimena/Desktop/DontPunchMe/Game/Saved/Config/Windows/Scalability.ini]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Jimena/Desktop/DontPunchMe/Game/Saved/Config/Windows/Scalability.ini]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.13-01.51.20:307][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Jimena/Desktop/DontPunchMe/Game/Saved/Config/Windows/Scalability.ini]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Jimena/Desktop/DontPunchMe/Game/Saved/Config/Windows/Scalability.ini]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Jimena/Desktop/DontPunchMe/Game/Saved/Config/Windows/Scalability.ini]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.13-01.51.20:308][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.13-01.51.20:309][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.07.13-01.51.20:309][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.07.13-01.51.20:309][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.07.13-01.51.20:309][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Jimena/Desktop/DontPunchMe/Game/Saved/Config/Windows/Engine.ini]
+[2019.07.13-01.51.20:309][  0]LogInit: Computer: JIMMY-ROSSY
+[2019.07.13-01.51.20:309][  0]LogInit: User: Jimena
+[2019.07.13-01.51.20:309][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.07.13-01.51.20:309][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.07.13-01.51.20:310][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2019.07.13-01.51.20:310][  0]LogMemory: Platform Memory Stats for Windows
+[2019.07.13-01.51.20:310][  0]LogMemory: Process Physical Memory: 96.07 MB used, 96.07 MB peak
+[2019.07.13-01.51.20:310][  0]LogMemory: Process Virtual Memory: 91.71 MB used, 91.71 MB peak
+[2019.07.13-01.51.20:310][  0]LogMemory: Physical Memory: 2791.42 MB used,  5228.39 MB free, 8019.81 MB total
+[2019.07.13-01.51.20:310][  0]LogMemory: Virtual Memory: 4643.13 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.07.13-01.51.20:335][  0]LogInit: Using OS detected language (es-ES).
+[2019.07.13-01.51.20:335][  0]LogInit: Using OS detected locale (es-CO).
+[2019.07.13-01.51.20:336][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2019.07.13-01.51.20:402][  0]LogInit: Setting process to per monitor DPI aware
+[2019.07.13-01.51.20:451][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.07.13-01.51.20:451][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.07.13-01.51.20:728][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.13-01.51.20:728][  0]LogD3D11RHI: D3D11 adapters:
+[2019.07.13-01.51.20:733][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 4000' (Feature Level 11_0)
+[2019.07.13-01.51.20:733][  0]LogD3D11RHI:       32/0/1760 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.07.13-01.51.20:735][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.07.13-01.51.20:735][  0]LogD3D11RHI:       0/0/4009 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.07.13-01.51.20:735][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.07.13-01.51.20:740][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.07.13-01.51.20:740][  0]LogD3D11RHI:     GPU DeviceId: 0x166 (for the marketing name, search the web for "GPU Device Id")
+[2019.07.13-01.51.20:740][  0]LogWindows: EnumDisplayDevices:
+[2019.07.13-01.51.20:741][  0]LogWindows:    0. 'Intel(R) HD Graphics 4000' (P:1 D:1)
+[2019.07.13-01.51.20:741][  0]LogWindows:    1. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2019.07.13-01.51.20:742][  0]LogWindows:    2. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2019.07.13-01.51.20:742][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.07.13-01.51.20:742][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 4000
+[2019.07.13-01.51.20:742][  0]LogD3D11RHI:   Driver Version: 10.18.10.4252 (internal:10.18.10.4252, unified:10.18.10.4252)
+[2019.07.13-01.51.20:742][  0]LogD3D11RHI:      Driver Date: 7-10-2015
+[2019.07.13-01.51.20:742][  0]LogRHI: Texture pool is 638 MB (70% of 912 MB)
+[2019.07.13-01.51.20:747][  0]LogD3D11RHI: Async texture creation enabled
+[2019.07.13-01.51.20:752][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.13-01.51.20:753][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.13-01.51.20:753][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.13-01.51.20:756][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2019.07.13-01.51.21:185][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.07.13-01.51.21:201][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.07.13-01.51.21:217][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.07.13-01.51.21:233][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.07.13-01.51.21:249][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.07.13-01.51.21:264][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.07.13-01.51.21:280][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.07.13-01.51.21:296][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.07.13-01.51.21:303][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.07.13-01.51.21:400][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.07.13-01.51.21:400][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.07.13-01.51.21:400][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.07.13-01.51.21:400][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.07.13-01.51.21:400][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.07.13-01.51.21:400][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.07.13-01.51.21:400][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.07.13-01.51.21:400][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.07.13-01.51.21:400][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.07.13-01.51.21:400][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.07.13-01.51.21:400][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.07.13-01.51.21:400][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.07.13-01.51.21:400][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.07.13-01.51.21:400][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.07.13-01.51.21:400][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.07.13-01.51.21:400][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.07.13-01.51.21:400][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.07.13-01.51.21:400][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.07.13-01.51.21:402][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.07.13-01.51.21:462][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.07.13-01.51.21:462][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.07.13-01.51.21:492][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.07.13-01.51.21:492][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.07.13-01.51.21:508][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.07.13-01.51.21:524][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.07.13-01.51.21:540][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.07.13-01.51.21:557][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.07.13-01.51.21:617][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.07.13-01.51.21:617][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.07.13-01.51.21:618][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.07.13-01.51.21:628][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.07.13-01.51.21:681][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Intermediate/Shaders/WorkingDirectory/8372/).
+[2019.07.13-01.51.21:681][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jimena/AppData/Local/Temp/UnrealShaderWorkingDir/98DD7AD9425C16B08BB3B4AC4DDE24E9/'.
+[2019.07.13-01.51.21:683][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.07.13-01.51.21:683][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.07.13-01.51.21:684][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.07.13-01.51.22:292][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.07.13-01.51.22:343][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Jimena/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.07.13-01.51.22:343][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jimena/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.07.13-01.51.22:343][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.07.13-01.51.22:343][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.07.13-01.51.22:343][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.13-01.51.22:343][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.07.13-01.51.22:356][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.07.13-01.51.22:356][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.13-01.51.22:356][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.07.13-01.51.22:370][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jimena/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.07.13-01.51.22:370][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.07.13-01.51.22:370][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.07.13-01.51.22:397][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.07.13-01.51.22:398][  0]LogSlate: Using FreeType 2.6.0
+[2019.07.13-01.51.22:399][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.07.13-01.51.22:485][  0]LogAssetRegistry: FAssetRegistry took 0.0345 seconds to start up
+[2019.07.13-01.51.22:899][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.13-01.51.23:057][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.07.13-01.51.23:057][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.07.13-01.51.23:057][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.07.13-01.51.23:057][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.07.13-01.51.23:057][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.07.13-01.51.23:070][  0]LogNetVersion: Game 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1024011840)
+[2019.07.13-01.51.23:922][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.339308 seconds
+[2019.07.13-01.51.23:934][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.07.13-01.51.23:934][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.07.13-01.51.23:934][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.07.13-01.51.24:862][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.07.13-01.51.24:893][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.07.13-01.51.25:025][  0]SourceControl: El control de código fuente está desactivado
+[2019.07.13-01.51.25:025][  0]SourceControl: El control de código fuente está desactivado
+[2019.07.13-01.51.25:026][  0]SourceControl: El control de código fuente está desactivado
+[2019.07.13-01.51.25:027][  0]SourceControl: El control de código fuente está desactivado
+[2019.07.13-01.51.25:136][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.07.13-01.51.25:210][  0]LogOcInput: OculusInput pre-init called
+[2019.07.13-01.51.25:918][  0]LogEngine: Initializing Engine...
+[2019.07.13-01.51.25:918][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.13-01.51.25:920][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.07.13-01.51.26:163][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.07.13-01.51.26:186][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.07.13-01.51.26:201][  0]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.13-01.51.26:255][  0]LogInit: FAudioDevice initialized.
+[2019.07.13-01.51.26:255][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.07.13-01.51.27:334][  0]LogDerivedDataCache: Saved boot cache 1.08s 71MB C:/Users/Jimena/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.07.13-01.51.27:350][  0]LogInit: Texture streaming: Enabled
+[2019.07.13-01.51.27:379][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.07.13-01.51.27:405][  0]LogInit: Transaction tracking system initialized
+[2019.07.13-01.51.27:433][  0]BlueprintLog: New page: Cargar el editor
+[2019.07.13-01.51.27:647][  0]LocalizationService: Localization service is disabled
+[2019.07.13-01.51.28:053][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jimena/Desktop/DontPunchMe/Game/Content/' took 0.01s
+[2019.07.13-01.51.28:053][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.07.13-01.51.28:053][  0]LogCook: Display: Mobile HDR setting 1
+[2019.07.13-01.51.28:285][  0]SourceControl: El control de código fuente está desactivado
+[2019.07.13-01.51.28:285][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.13-01.51.28:285][  0]LightingResults: New page: Diseñar la iluminación
+[2019.07.13-01.51.28:288][  0]MapCheck: New page: Revisión del mapa
+[2019.07.13-01.51.28:288][  0]LightingResults: New page: Diseñar la iluminación
+[2019.07.13-01.51.28:310][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.07.13-01.51.28:415][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.07.13-01.51.28:422][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.13-01.51.28:458][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.07.13-01.51.28:458][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.13-01.51.28:459][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,198ms to complete.
+[2019.07.13-01.51.28:459][  0]LogFileHelpers: Loading map 'Template_Default' took 0.174
+[2019.07.13-01.51.28:774][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.13-01.51.28:786][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.13-01.51.28:799][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.13-01.51.28:813][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.13-01.51.28:825][  0]LogCollectionManager: Loaded 0 collections in 0.001906 seconds
+[2019.07.13-01.51.29:007][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jimena/Desktop/DontPunchMe/Game/Saved/Collections/' took 0.01s
+[2019.07.13-01.51.29:007][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jimena/Desktop/DontPunchMe/Game/Content/Developers/Jimena/Collections/' took 0.01s
+[2019.07.13-01.51.29:007][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Jimena/Desktop/DontPunchMe/Game/Content/Collections/' took 0.01s
+[2019.07.13-01.51.29:008][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.07.13-01.51.29:027][  0]LogContentBrowser: Native class hierarchy populated in 0.0191 seconds. Added 2732 classes and 659 folders.
+[2019.07.13-01.51.29:037][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.07.13-01.51.29:358][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.13-01.51.29:375][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.13-01.51.29:737][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.13-01.51.29:745][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.13-01.51.29:751][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.13-01.51.29:758][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.13-01.51.29:764][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.13-01.51.29:866][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.13-01.51.29:882][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.13-01.51.29:894][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.13-01.51.29:900][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.13-01.51.29:907][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.13-01.51.29:914][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.13-01.51.29:920][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.13-01.51.29:925][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.13-01.51.29:930][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.13-01.51.29:959][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.13-01.51.29:964][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.13-01.51.29:970][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.13-01.51.29:975][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.13-01.51.29:980][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.13-01.51.29:985][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.13-01.51.29:990][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.13-01.51.29:995][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.13-01.51.30:000][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.13-01.51.30:005][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.13-01.51.32:313][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.07.13-01.51.32:329][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2019.07.13-01.51.32:360][  0]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.07.13-01.51.32:363][  0]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.07.13-01.51.32:452][  0]LogSlate: Took 0.076980 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.07.13-01.51.32:570][  0]LogRenderer: Reallocating scene render targets to support 856x372 Format 10 NumSamples 1 (Frame:1).
+[2019.07.13-01.51.33:183][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.07.13-01.51.33:183][  0]LogLoad: (Engine Initialization) Total time: 16.05 seconds
+[2019.07.13-01.51.33:183][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.07.13-01.51.33:215][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.07.13-01.52.05:037][ 23]LogAssetRegistry: Asset discovery search completed in 42.5744 seconds
+[2019.07.13-01.52.05:042][ 23]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2019.07.13-01.52.05:043][ 23]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000194 seconds (updated 0 objects)
+[2019.07.13-01.52.33:271][ 77]LogHttp: Warning: 00000183F238FB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-01.52.33:271][ 77]LogHttp: Warning: 00000183F238FB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-01.52.33:271][ 77]LogHttp: Warning: 00000183F238FB00: libcurl info message cache 1 (Closing connection 0)
+[2019.07.13-01.52.33:297][ 78]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-01.54.33:349][999]LogHttp: Warning: 00000183F238FC40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-01.54.33:349][999]LogHttp: Warning: 00000183F238FC40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-01.54.33:349][999]LogHttp: Warning: 00000183F238FC40: libcurl info message cache 1 (Closing connection 1)
+[2019.07.13-01.54.33:376][  0]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-01.56.33:422][970]LogHttp: Warning: 00000183F238FC40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-01.56.33:422][970]LogHttp: Warning: 00000183F238FC40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-01.56.33:422][970]LogHttp: Warning: 00000183F238FC40: libcurl info message cache 1 (Closing connection 2)
+[2019.07.13-01.56.33:422][970]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-01.57.03:045][678]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.07.13-01.57.08:104][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-01.57.12:345][795]Cmd: DELETE
+[2019.07.13-01.57.12:346][795]Cmd: ACTOR DELETE
+[2019.07.13-01.57.12:352][795]LogEditorActor: Deleted Actor: PlayerStart
+[2019.07.13-01.57.12:433][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.07.13-01.57.12:434][795]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2019.07.13-01.57.16:261][844]Cmd: DELETE
+[2019.07.13-01.57.16:261][844]Cmd: ACTOR DELETE
+[2019.07.13-01.57.16:265][844]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2019.07.13-01.57.16:348][844]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2019.07.13-01.57.16:349][844]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2019.07.13-01.57.20:503][899]Cmd: DELETE
+[2019.07.13-01.57.20:503][899]Cmd: ACTOR DELETE
+[2019.07.13-01.57.20:507][899]LogEditorActor: Deleted Actor: AtmosphericFog
+[2019.07.13-01.57.20:588][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.07.13-01.57.20:589][899]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2019.07.13-01.57.26:433][979]Cmd: TRANSACTION UNDO
+[2019.07.13-01.57.26:433][979]LogEditorTransaction: Undo Eliminar actores
+[2019.07.13-01.57.26:566][979]LogSlate: Took 0.000436 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.13-01.57.44:673][249]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.13-01.57.44:703][249]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.07.13-01.57.44:704][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.13-01.57.44:705][249]PIE: New page: Sesión PIE (reproducción en el editor): Untitled_1 (12/07/2019 3:57:44 p. m.)
+[2019.07.13-01.57.44:721][249]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.07.13-01.57.44:728][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006701s)
+[2019.07.13-01.57.44:730][249]LogAIModule: Creating AISystem for world Untitled_1
+[2019.07.13-01.57.44:731][249]LogPlayLevel: PIE: World Init took: (0.002752s)
+[2019.07.13-01.57.44:731][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.010301s)
+[2019.07.13-01.57.44:806][249]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2019.07.13-01.57.44:821][249]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.13-01.57.44:890][249]LogInit: FAudioDevice initialized.
+[2019.07.13-01.57.44:941][249]LogLoad: Game class is 'GameModeBase'
+[2019.07.13-01.57.44:946][249]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.07.12-20.57.44
+[2019.07.13-01.57.44:947][249]LogWorld: Bringing up level for play took: 0.001866
+[2019.07.13-01.57.44:982][249]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 20 classes and 0 folders.
+[2019.07.13-01.57.44:985][249]PIE: Tiempo de inicio de la reproducción en el editor para  /Temp/UEDPIE_0_Untitled_1 -0,545
+[2019.07.13-01.57.44:986][249]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.07.13-01.58.33:515][284]LogHttp: Warning: 00000183F2843240: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-01.58.33:516][284]LogHttp: Warning: 00000183F2843240: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-01.58.33:516][284]LogHttp: Warning: 00000183F2843240: libcurl info message cache 1 (Closing connection 3)
+[2019.07.13-01.58.33:516][284]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-01.59.02:988][ 37]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.07.13-01.59.02:990][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.13-01.59.03:084][ 37]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.13-01.59.03:085][ 37]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.07.13-01.59.03:159][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.13-01.59.03:171][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2019.07.13-01.59.03:259][ 38]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.07.13-01.59.07:318][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-01.59.46:108][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-01.59.49:738][852]LogSlate: Took 0.000454 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.13-02.00.29:246][487]LogSlate: Window 'Escoger clase padre' being destroyed
+[2019.07.13-02.00.33:666][541]LogHttp: Warning: 0000018385657380: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-02.00.33:666][541]LogHttp: Warning: 0000018385657380: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-02.00.33:667][541]LogHttp: Warning: 0000018385657380: libcurl info message cache 1 (Closing connection 4)
+[2019.07.13-02.00.33:752][542]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-02.00.45:115][674]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/prota.prota
+[2019.07.13-02.00.46:130][674]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0018 seconds. Added 121 classes and 0 folders.
+[2019.07.13-02.00.48:981][674]LogRenderer: Reallocating scene render targets to support 856x588 Format 10 NumSamples 1 (Frame:1).
+[2019.07.13-02.01.00:486][854]LogSlate: Took 0.051705 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.07.13-02.01.05:656][887]LogSlate: Took 0.016987 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.07.13-02.02.33:952][860]LogHttp: Warning: 00000183AE0BED40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-02.02.33:952][860]LogHttp: Warning: 00000183AE0BED40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-02.02.33:952][860]LogHttp: Warning: 00000183AE0BED40: libcurl info message cache 1 (Closing connection 5)
+[2019.07.13-02.02.33:952][860]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-02.03.40:355][751]LogEditorTransaction: Undo Delete current selection
+[2019.07.13-02.04.34:024][263]LogHttp: Warning: 00000183BF8BA980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-02.04.34:024][263]LogHttp: Warning: 00000183BF8BA980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-02.04.34:024][263]LogHttp: Warning: 00000183BF8BA980: libcurl info message cache 1 (Closing connection 6)
+[2019.07.13-02.04.34:082][264]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-02.04.42:897][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.05.28:873][634]LogSlate: Window 'prota' being destroyed
+[2019.07.13-02.05.31:853][721]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2019.07.13-02.05.31:854][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.07.13-02.05.31:885][721]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/Untitled_1_Auto1C1B540DC472BD4D543961CB0817452B0.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2019.07.13-02.05.31:953][721]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.139
+[2019.07.13-02.05.31:953][721]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.139
+[2019.07.13-02.05.31:958][721]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/prota] ([1] browsable assets)...
+[2019.07.13-02.05.31:958][721]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/prota]
+[2019.07.13-02.05.31:958][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/prota" FILE="../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/Autosaves/Game/Blueprints/prota_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.07.13-02.05.32:001][721]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/prota_Auto1CD0573C64071E35D912AA4B02EC2E78B.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/Autosaves/Game/Blueprints/prota_Auto1.uasset'
+[2019.07.13-02.05.32:004][721]LogFileHelpers: Auto-saving content packages took 0.049
+[2019.07.13-02.05.33:652][773]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/prota.prota
+[2019.07.13-02.05.34:039][773]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2019.07.13-02.05.45:121][983]LogSlate: Window 'Game - Unreal Editor' being destroyed
+[2019.07.13-02.05.45:125][983]LogSlate: Window 'prota' being destroyed
+[2019.07.13-02.05.47:931][184]LogSlate: Window 'CompilerResults' being destroyed
+[2019.07.13-02.05.47:953][184]LogSlate: Window 'CompilerResults' being destroyed
+[2019.07.13-02.05.56:284][575]LogUObjectHash: Compacting FUObjectHashTables data took   8.17ms
+[2019.07.13-02.05.58:590][575]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.13-02.05.58:770][575]LogUObjectHash: Compacting FUObjectHashTables data took   8.51ms
+[2019.07.13-02.06.03:858][688]LogSlate: Window 'Escoger clase padre' being destroyed
+[2019.07.13-02.06.10:570][863]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/prota.prota
+[2019.07.13-02.06.34:590][ 22]LogHttp: Warning: 00000183AE879300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-02.06.34:591][ 22]LogHttp: Warning: 00000183AE879300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-02.06.34:591][ 22]LogHttp: Warning: 00000183AE879300: libcurl info message cache 1 (Closing connection 7)
+[2019.07.13-02.06.34:591][ 22]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-02.08.14:452][727]LogSlate: Window 'Default__prota_C{DirtyState} - Editor de propiedades' being destroyed
+[2019.07.13-02.08.14:552][727]LogSlate: Window 'Default__prota_C{DirtyState} - Editor de propiedades' being destroyed
+[2019.07.13-02.08.34:726][979]LogHttp: Warning: 00000183AF0AEFC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-02.08.34:726][979]LogHttp: Warning: 00000183AF0AEFC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-02.08.34:726][979]LogHttp: Warning: 00000183AF0AEFC0: libcurl info message cache 1 (Closing connection 8)
+[2019.07.13-02.08.34:786][980]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-02.09.18:627][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.09.18:954][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/prota" FILE="../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Blueprints/prota.uasset" SILENT=true
+[2019.07.13-02.09.19:008][772]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/prota23D87F8C441312D2D384568E5495A0F5.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Blueprints/prota.uasset'
+[2019.07.13-02.09.27:274][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.07.13-02.09.28:643][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.07.13-02.09.30:076][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.09.38:372][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.07.13-02.09.42:871][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.09.54:136][264]LogEditorViewport: Clicking on Actor (LMB): prota_C (prota)
+[2019.07.13-02.09.56:975][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.10.34:932][700]LogHttp: Warning: 00000183BA91CB80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-02.10.34:933][700]LogHttp: Warning: 00000183BA91CB80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-02.10.34:933][700]LogHttp: Warning: 00000183BA91CB80: libcurl info message cache 1 (Closing connection 9)
+[2019.07.13-02.10.34:933][700]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-02.10.54:213][ 93]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.13-02.10.54:273][ 93]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.07.13-02.10.54:274][ 93]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.13-02.10.54:274][ 93]PIE: New page: Sesión PIE (reproducción en el editor): Untitled_1 (12/07/2019 4:10:54 p. m.)
+[2019.07.13-02.10.54:274][ 93]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.07.13-02.10.54:283][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008414s)
+[2019.07.13-02.10.54:284][ 93]LogAIModule: Creating AISystem for world Untitled_1
+[2019.07.13-02.10.54:285][ 93]LogPlayLevel: PIE: World Init took: (0.001746s)
+[2019.07.13-02.10.54:285][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.010600s)
+[2019.07.13-02.10.54:418][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   8.44ms
+[2019.07.13-02.10.54:432][ 93]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.13-02.10.54:494][ 93]LogInit: FAudioDevice initialized.
+[2019.07.13-02.10.54:528][ 93]LogLoad: Game class is 'GameModeBase'
+[2019.07.13-02.10.54:530][ 93]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.07.12-21.10.54
+[2019.07.13-02.10.54:800][ 93]LogWorld: Bringing up level for play took: 0.270706
+[2019.07.13-02.10.54:817][ 93]PIE: Tiempo de inicio de la reproducción en el editor para  /Temp/UEDPIE_0_Untitled_1 1,286
+[2019.07.13-02.10.54:818][ 93]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.07.13-02.11.06:721][258]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.07.13-02.11.06:722][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.13-02.11.06:768][258]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.13-02.11.06:769][258]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.07.13-02.11.06:864][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.13-02.11.06:876][258]LogUObjectHash: Compacting FUObjectHashTables data took   7.04ms
+[2019.07.13-02.11.06:903][259]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.07.13-02.11.13:459][473]LogEditorViewport: Clicking Background
+[2019.07.13-02.11.14:757][487]LogEditorViewport: Clicking Background
+[2019.07.13-02.11.15:966][500]LogEditorViewport: Clicking Background
+[2019.07.13-02.11.20:681][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.11.25:872][711]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.07.13-02.11.28:669][852]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.07.13-02.11.29:486][858]LogEditorViewport: Clicking Background
+[2019.07.13-02.11.33:198][964]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.07.13-02.11.36:246][ 62]Cmd: DELETE
+[2019.07.13-02.11.36:246][ 62]Cmd: ACTOR DELETE
+[2019.07.13-02.11.36:248][ 62]LogEditorActor: Deleted Actor: DirectionalLight
+[2019.07.13-02.11.36:290][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.07.13-02.11.36:290][ 62]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2019.07.13-02.11.40:283][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.11.51:716][251]Cmd: DELETE
+[2019.07.13-02.11.51:717][251]Cmd: ACTOR DELETE
+[2019.07.13-02.11.51:722][251]LogEditorActor: Deleted Actor: DirectionalLight
+[2019.07.13-02.11.51:838][251]LogUObjectHash: Compacting FUObjectHashTables data took   7.02ms
+[2019.07.13-02.11.51:838][251]LogEditorActor: Deleted 1 Actors (0.121 secs)
+[2019.07.13-02.12.02:742][384]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.07.13-02.12.07:132][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.12.24:397][605]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.13-02.12.28:279][957]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.13-02.12.34:992][430]LogHttp: Warning: 00000183AE87A340: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-02.12.34:992][430]LogHttp: Warning: 00000183AE87A340: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-02.12.34:992][430]LogHttp: Warning: 00000183AE87A340: libcurl info message cache 1 (Closing connection 10)
+[2019.07.13-02.12.34:993][430]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-02.12.35:483][458]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.13-02.12.41:685][947]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.13-02.12.41:778][957]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.13-02.12.43:809][184]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.13-02.12.47:229][215]LogSlate: Window 'Hierarchical LOD Outliner' being destroyed
+[2019.07.13-02.12.47:347][215]LogSlate: Window 'Hierarchical LOD Outliner' being destroyed
+[2019.07.13-02.12.56:293][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.07.13-02.13.00:484][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.13.32:662][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.07.13-02.13.35:202][317]Cmd: DELETE
+[2019.07.13-02.13.35:203][317]Cmd: ACTOR DELETE
+[2019.07.13-02.13.35:207][317]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.13-02.13.35:264][317]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.07.13-02.13.35:265][317]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2019.07.13-02.13.37:441][382]Cmd: TRANSACTION UNDO
+[2019.07.13-02.13.37:441][382]LogEditorTransaction: Undo Eliminar actores
+[2019.07.13-02.13.44:130][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.07.13-02.13.45:327][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.07.13-02.13.46:314][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.07.13-02.13.47:093][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.07.13-02.13.48:186][589]LogEditorViewport: Clicking on Actor (LMB): prota_C (prota)
+[2019.07.13-02.13.50:229][609]Cmd: DELETE
+[2019.07.13-02.13.50:230][609]Cmd: ACTOR DELETE
+[2019.07.13-02.13.50:234][609]LogEditorActor: Deleted Actor: prota_C
+[2019.07.13-02.13.50:356][609]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.07.13-02.13.50:357][609]LogEditorActor: Deleted 1 Actors (0.127 secs)
+[2019.07.13-02.13.52:456][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.13.58:243][632]LogSlate: Window 'Guardar nivel como' being destroyed
+[2019.07.13-02.13.58:449][632]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.07.13-02.13.58:451][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.13-02.13.58:485][632]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.07.13-02.13.58:655][632]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/NewMapDAA1D0504F2CAA9C3FFC70BF04B1B3BB.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Maps/NewMap.umap'
+[2019.07.13-02.13.58:681][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap_BuiltData" FILE="../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Maps/NewMap_BuiltData.uasset" SILENT=true
+[2019.07.13-02.13.58:718][632]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/NewMap_BuiltData79ADBAF541875B36ACD5549CCE330557.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Maps/NewMap_BuiltData.uasset'
+[2019.07.13-02.13.58:726][632]LogFileHelpers: Saving map 'NewMap' took 0.477
+[2019.07.13-02.14.03:433][766]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.07.13-02.14.04:555][796]LogEditorViewport: Clicking Background
+[2019.07.13-02.14.07:095][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.14.14:169][325]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.07.13-02.14.29:093][888]LogSlate: Window 'Crear GameMode Blueprint' being destroyed
+[2019.07.13-02.14.29:129][888]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Gamemodes/NewGameMode.NewGameMode
+[2019.07.13-02.14.35:105][975]LogHttp: Warning: 00000183E3DABC40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-02.14.35:105][975]LogHttp: Warning: 00000183E3DABC40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-02.14.35:105][975]LogHttp: Warning: 00000183E3DABC40: libcurl info message cache 1 (Closing connection 11)
+[2019.07.13-02.14.35:166][976]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-02.14.39:333][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.13-02.14.39:344][ 42]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.07.13-02.15.09:902][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.15.10:027][411]LogSlate: Window 'NewGameMode' being destroyed
+[2019.07.13-02.15.20:051][947]LogUObjectHash: Compacting FUObjectHashTables data took   8.75ms
+[2019.07.13-02.15.21:915][947]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.13-02.15.22:095][947]LogUObjectHash: Compacting FUObjectHashTables data took   6.06ms
+[2019.07.13-02.15.23:445][963]LogLinker: Warning: No puede encontrar el archivo '/Game/Gamemodes/NewGameMode'
+[2019.07.13-02.15.23:446][963]LogLinker: Warning: No puede encontrar el archivo '/Game/Gamemodes/NewGameMode'
+[2019.07.13-02.15.23:447][963]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object /Game/Gamemodes/NewGameMode.NewGameMode_C'
+[2019.07.13-02.15.30:666][239]LogSlate: Window 'Crear GameMode Blueprint' being destroyed
+[2019.07.13-02.15.30:713][239]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Gamemodes/NewGameMode.NewGameMode
+[2019.07.13-02.16.26:216][543]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.07.13-02.16.35:694][782]LogHttp: Warning: 00000183BC8A0B80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-02.16.35:695][782]LogHttp: Warning: 00000183BC8A0B80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-02.16.35:695][782]LogHttp: Warning: 00000183BC8A0B80: libcurl info message cache 1 (Closing connection 12)
+[2019.07.13-02.16.35:695][782]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-02.16.50:510][845]BlueprintLog: New page: Compilar NewGameMode
+[2019.07.13-02.16.50:725][845]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.07.13-02.16.51:765][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gamemodes/NewGameMode" FILE="../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Gamemodes/NewGameMode.uasset" SILENT=true
+[2019.07.13-02.16.51:782][863]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/NewGameMode4645276B404D873857A8EFA4A1B6C379.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Gamemodes/NewGameMode.uasset'
+[2019.07.13-02.16.55:020][916]LogSlate: Window 'NewGameMode' being destroyed
+[2019.07.13-02.17.10:040][343]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2019.07.13-02.17.15:410][343]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.07.13-02.18.35:743][108]LogHttp: Warning: 0000018405208E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-02.18.35:743][108]LogHttp: Warning: 0000018405208E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-02.18.35:743][108]LogHttp: Warning: 0000018405208E00: libcurl info message cache 1 (Closing connection 13)
+[2019.07.13-02.18.35:743][108]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-02.19.53:683][556]LogSlate: Window 'Ajustes del proyecto' being destroyed
+[2019.07.13-02.19.53:794][556]LogSlate: Window 'Ajustes del proyecto' being destroyed
+[2019.07.13-02.19.58:217][603]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.07.13-02.20.35:799][836]LogHttp: Warning: 00000183C37C5D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-02.20.35:799][836]LogHttp: Warning: 00000183C37C5D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-02.20.35:799][836]LogHttp: Warning: 00000183C37C5D00: libcurl info message cache 1 (Closing connection 14)
+[2019.07.13-02.20.35:799][836]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-02.20.42:961][137]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.07.13-02.22.23:508][378]LogSlate: Window 'Ajustes del proyecto' being destroyed
+[2019.07.13-02.22.23:616][378]LogSlate: Window 'Ajustes del proyecto' being destroyed
+[2019.07.13-02.22.36:437][430]LogHttp: Warning: 00000183C12CE980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-02.22.36:437][430]LogHttp: Warning: 00000183C12CE980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-02.22.36:437][430]LogHttp: Warning: 00000183C12CE980: libcurl info message cache 1 (Closing connection 15)
+[2019.07.13-02.22.36:437][430]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-02.22.57:227][785]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.07.13-02.23.12:602][  5]LogSlate: Window 'Ajustes del proyecto' being destroyed
+[2019.07.13-02.23.12:607][  5]LogSlate: Window 'Ajustes del proyecto' being destroyed
+[2019.07.13-02.23.21:911][282]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/prota.prota
+[2019.07.13-02.23.35:893][897]LogUObjectHash: Compacting FUObjectHashTables data took  17.44ms
+[2019.07.13-02.23.47:869][897]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.13-02.23.53:603][312]LogSlate: Window 'Escoger clase padre' being destroyed
+[2019.07.13-02.24.28:652][112]LogUObjectHash: Compacting FUObjectHashTables data took  10.88ms
+[2019.07.13-02.24.38:432][112]LogSlate: Window '¿Reemplazar las referencias?' being destroyed
+[2019.07.13-02.24.38:436][112]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.13-02.24.41:192][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.07.13-02.24.41:666][112]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.07.13-02.24.46:569][112]LogSlate: Window 'Guardar contenido' being destroyed
+[2019.07.13-02.24.46:587][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/prota" FILE="../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Blueprints/prota.uasset" SILENT=true
+[2019.07.13-02.24.46:622][112]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/prota6B4DBD8C4B9A4BE12FF5D7A5C814656C.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Blueprints/prota.uasset'
+[2019.07.13-02.24.46:629][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gamemodes/NewGameMode" FILE="../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Gamemodes/NewGameMode.uasset" SILENT=true
+[2019.07.13-02.24.46:651][112]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/NewGameMode458931144C407E6262E85C9DDA28C3FD.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Gamemodes/NewGameMode.uasset'
+[2019.07.13-02.24.46:704][114]LogHttp: Warning: 00000183C4B9AFC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-02.24.46:704][114]LogHttp: Warning: 00000183C4B9AFC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-02.24.46:704][114]LogHttp: Warning: 00000183C4B9AFC0: libcurl info message cache 1 (Closing connection 16)
+[2019.07.13-02.24.46:704][114]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-02.24.49:034][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.13-02.24.49:065][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.07.13-02.24.49:257][181]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/NewMapB5B4CF1043A7EEAD1C16FEA0DC064CEE.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Maps/NewMap.umap'
+[2019.07.13-02.24.49:283][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap_BuiltData" FILE="../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Maps/NewMap_BuiltData.uasset" SILENT=true
+[2019.07.13-02.24.49:308][181]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/NewMap_BuiltData23BE135A46D829B4A3588DB88105B424.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Maps/NewMap_BuiltData.uasset'
+[2019.07.13-02.24.52:595][277]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.07.13-02.24.57:959][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.25.02:798][504]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.07.13-02.25.04:164][519]Cmd: DELETE
+[2019.07.13-02.25.04:164][519]Cmd: ACTOR DELETE
+[2019.07.13-02.25.04:170][519]LogEditorActor: Deleted Actor: DirectionalLight
+[2019.07.13-02.25.04:284][519]LogUObjectHash: Compacting FUObjectHashTables data took   9.21ms
+[2019.07.13-02.25.04:284][519]LogEditorActor: Deleted 1 Actors (0.120 secs)
+[2019.07.13-02.25.06:627][549]LogEditorViewport: Clicking Background
+[2019.07.13-02.25.09:268][581]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2019.07.13-02.25.10:974][601]Cmd: DELETE
+[2019.07.13-02.25.10:974][601]Cmd: ACTOR DELETE
+[2019.07.13-02.25.10:977][601]LogEditorActor: Deleted Actor: SkyLight
+[2019.07.13-02.25.11:079][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.07.13-02.25.11:080][601]LogEditorActor: Deleted 1 Actors (0.106 secs)
+[2019.07.13-02.25.14:742][648]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.07.13-02.25.18:089][688]Cmd: DELETE
+[2019.07.13-02.25.18:089][688]Cmd: ACTOR DELETE
+[2019.07.13-02.25.18:092][688]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2019.07.13-02.25.18:198][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.07.13-02.25.18:199][688]LogEditorActor: Deleted 1 Actors (0.110 secs)
+[2019.07.13-02.25.20:234][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.25.26:742][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.25.26:961][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.13-02.25.27:051][784]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2019.07.13-02.25.27:502][784]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/NewMap835688CB4708CE296332DABC563F23AE.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Maps/NewMap.umap'
+[2019.07.13-02.25.27:573][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap_BuiltData" FILE="../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Maps/NewMap_BuiltData.uasset" SILENT=true
+[2019.07.13-02.25.27:623][784]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/NewMap_BuiltData17F01F9A4250BDFFF902A8AE3BAFDACE.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Maps/NewMap_BuiltData.uasset'
+[2019.07.13-02.25.30:502][814]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/protaball.protaball
+[2019.07.13-02.25.33:336][824]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (46.658 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.13-02.26.46:766][767]LogHttp: Warning: 00000183EFAB3100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-02.26.46:767][767]LogHttp: Warning: 00000183EFAB3100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-02.26.46:767][767]LogHttp: Warning: 00000183EFAB3100: libcurl info message cache 1 (Closing connection 17)
+[2019.07.13-02.26.46:789][768]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-02.28.46:862][400]LogHttp: Warning: 00000183AE0E7EC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-02.28.46:862][400]LogHttp: Warning: 00000183AE0E7EC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-02.28.46:862][400]LogHttp: Warning: 00000183AE0E7EC0: libcurl info message cache 1 (Closing connection 18)
+[2019.07.13-02.28.46:862][400]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-02.30.47:440][768]LogHttp: Warning: 00000183A0496980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-02.30.47:441][768]LogHttp: Warning: 00000183A0496980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-02.30.47:441][768]LogHttp: Warning: 00000183A0496980: libcurl info message cache 1 (Closing connection 19)
+[2019.07.13-02.30.47:441][768]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-02.32.47:601][306]LogHttp: Warning: 00000183AA9BBD80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-02.32.47:602][306]LogHttp: Warning: 00000183AA9BBD80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-02.32.47:602][306]LogHttp: Warning: 00000183AA9BBD80: libcurl info message cache 1 (Closing connection 20)
+[2019.07.13-02.32.47:602][306]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-02.34.47:683][925]LogHttp: Warning: 00000183BFC3F100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-02.34.47:683][925]LogHttp: Warning: 00000183BFC3F100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-02.34.47:683][925]LogHttp: Warning: 00000183BFC3F100: libcurl info message cache 1 (Closing connection 21)
+[2019.07.13-02.34.47:707][926]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-02.35.27:495][973]LogUObjectHash: Compacting FUObjectHashTables data took  10.31ms
+[2019.07.13-02.35.27:495][973]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NewMap' took 0.096
+[2019.07.13-02.35.27:498][973]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/protaball] ([1] browsable assets)...
+[2019.07.13-02.35.27:499][973]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/protaball]
+[2019.07.13-02.35.27:499][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/protaball" FILE="../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/Autosaves/Game/Blueprints/protaball_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.07.13-02.35.27:608][973]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/protaball_Auto25F08E0A94569C5C7C0D7F9AD06D7D605.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/Autosaves/Game/Blueprints/protaball_Auto2.uasset'
+[2019.07.13-02.35.27:612][973]LogFileHelpers: Auto-saving content packages took 0.114
+[2019.07.13-02.36.01:454][868]BlueprintLog: New page: Compilar protaball
+[2019.07.13-02.36.01:987][868]LogUObjectHash: Compacting FUObjectHashTables data took   9.61ms
+[2019.07.13-02.36.03:572][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/protaball" FILE="../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Blueprints/protaball.uasset" SILENT=true
+[2019.07.13-02.36.03:670][883]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/protaball48D86FD6470676ADDFCBD78937526EC6.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Blueprints/protaball.uasset'
+[2019.07.13-02.36.47:761][179]LogHttp: Warning: 00000184086B25C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-02.36.47:761][179]LogHttp: Warning: 00000184086B25C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-02.36.47:761][179]LogHttp: Warning: 00000184086B25C0: libcurl info message cache 1 (Closing connection 22)
+[2019.07.13-02.36.47:773][180]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-02.38.48:288][733]LogHttp: Warning: 000001840AAA8680: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-02.38.48:288][733]LogHttp: Warning: 000001840AAA8680: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-02.38.48:288][733]LogHttp: Warning: 000001840AAA8680: libcurl info message cache 1 (Closing connection 23)
+[2019.07.13-02.38.48:626][734]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-02.39.03:955][ 70]LogSlate: Window 'protaball' being destroyed
+[2019.07.13-02.39.05:566][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/protaball" FILE="../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Blueprints/protaball.uasset" SILENT=true
+[2019.07.13-02.39.05:667][168]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/protaball2F17B88D428ECD6A0B03A19423B15755.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Blueprints/protaball.uasset'
+[2019.07.13-02.39.20:143][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.39.20:244][612]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.13-02.39.20:305][612]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.07.13-02.39.20:306][612]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.13-02.39.20:306][612]PIE: New page: Sesión PIE (reproducción en el editor): NewMap (12/07/2019 4:39:20 p. m.)
+[2019.07.13-02.39.20:306][612]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2019.07.13-02.39.20:316][612]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006814s)
+[2019.07.13-02.39.20:317][612]LogAIModule: Creating AISystem for world NewMap
+[2019.07.13-02.39.20:318][612]LogPlayLevel: PIE: World Init took: (0.002004s)
+[2019.07.13-02.39.20:318][612]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.011809s)
+[2019.07.13-02.39.20:410][612]LogUObjectHash: Compacting FUObjectHashTables data took   7.74ms
+[2019.07.13-02.39.20:429][612]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.13-02.39.20:500][612]LogInit: FAudioDevice initialized.
+[2019.07.13-02.39.20:541][612]LogLoad: Game class is 'NewGameMode_C'
+[2019.07.13-02.39.20:543][612]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2019.07.12-21.39.20
+[2019.07.13-02.39.20:544][612]LogWorld: Bringing up level for play took: 0.001816
+[2019.07.13-02.39.20:559][612]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.13-02.39.20:569][612]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.13-02.39.20:569][612]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.07.13-02.39.20:613][612]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.07.13-02.39.20:614][612]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Maps/UEDPIE_0_NewMap 1,082
+[2019.07.13-02.39.20:614][612]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.07.13-02.39.23:072][644]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.07.13-02.39.23:073][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.13-02.39.23:185][644]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.13-02.39.23:186][644]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/NewMap.NewMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/NewMap.NewMap:PersistentLevel.NewMap' with GeneratedClass '/Game/Maps/NewMap.NewMap_C' with ClassGeneratedBy '/Game/Maps/NewMap.NewMap:PersistentLevel.NewMap'
+[2019.07.13-02.39.23:271][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.13-02.39.23:284][644]LogUObjectHash: Compacting FUObjectHashTables data took   6.65ms
+[2019.07.13-02.39.23:308][645]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.07.13-02.39.46:205][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.40.49:288][407]LogHttp: Warning: 00000183C33C5580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-02.40.49:289][407]LogHttp: Warning: 00000183C33C5580: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-02.40.49:289][407]LogHttp: Warning: 00000183C33C5580: libcurl info message cache 1 (Closing connection 24)
+[2019.07.13-02.40.49:623][408]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-02.41.20:592][721]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.07.13-02.41.22:427][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.41.45:657][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.42.06:581][679]LogSlate: Window 'Unable to delete level' being destroyed
+[2019.07.13-02.42.07:508][705]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/lvl1.lvl1
+[2019.07.13-02.42.07:547][705]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.07.13-02.42.11:470][705]LogSlate: Window 'Guardar contenido' being destroyed
+[2019.07.13-02.42.11:479][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/lvl1" FILE="../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Maps/lvl1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.13-02.42.11:513][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.07.13-02.42.11:529][705]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/lvl1A63BB4F741CDC0224E1884848A336C2F.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Maps/lvl1.umap'
+[2019.07.13-02.42.11:532][705]LogFileHelpers: Saving map 'lvl1' took 0.054
+[2019.07.13-02.42.11:534][705]Cmd: MAP LOAD FILE="../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Maps/lvl1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.13-02.42.11:534][705]LightingResults: New page: Diseñar la iluminación
+[2019.07.13-02.42.11:536][705]LoadErrors: New page: Cargando mapa: lvl1.umap
+[2019.07.13-02.42.11:537][705]MapCheck: New page: Revisión del mapa
+[2019.07.13-02.42.11:537][705]LightingResults: New page: Diseñar la iluminación
+[2019.07.13-02.42.11:572][705]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.07.13-02.42.11:573][705]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.13-02.42.11:573][705]LogAIModule: Creating AISystem for world lvl1
+[2019.07.13-02.42.11:604][705]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.07.13-02.42.11:639][705]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.13-02.42.11:639][705]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,144ms to complete.
+[2019.07.13-02.42.11:641][705]LogFileHelpers: Loading map 'lvl1' took 0.108
+[2019.07.13-02.42.14:229][817]LogAIModule: Creating AISystem for world NewMap
+[2019.07.13-02.42.14:268][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.07.13-02.42.16:058][817]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.13-02.42.16:266][817]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2019.07.13-02.42.16:342][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.07.13-02.42.16:426][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.07.13-02.42.16:503][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.07.13-02.42.26:966][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.42.30:367][  6]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.07.13-02.42.49:718][353]LogHttp: Warning: 00000183BA91F380: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-02.42.49:718][353]LogHttp: Warning: 00000183BA91F380: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-02.42.49:718][353]LogHttp: Warning: 00000183BA91F380: libcurl info message cache 1 (Closing connection 25)
+[2019.07.13-02.42.49:809][354]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-02.43.05:627][511]LogEditorViewport: Clicking Background
+[2019.07.13-02.43.07:607][530]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.43.27:693][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.43.43:325][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.43.43:426][131]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.13-02.43.43:487][131]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.43.43:488][131]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.13-02.43.43:488][131]PIE: New page: Sesión PIE (reproducción en el editor): lvl1 (12/07/2019 4:43:43 p. m.)
+[2019.07.13-02.43.43:488][131]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_lvl1
+[2019.07.13-02.43.43:497][131]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007009s)
+[2019.07.13-02.43.43:498][131]LogAIModule: Creating AISystem for world lvl1
+[2019.07.13-02.43.43:499][131]LogPlayLevel: PIE: World Init took: (0.001922s)
+[2019.07.13-02.43.43:499][131]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/lvl1.lvl1 to /Game/Maps/UEDPIE_0_lvl1.lvl1 (0.010588s)
+[2019.07.13-02.43.43:594][131]LogUObjectHash: Compacting FUObjectHashTables data took   7.19ms
+[2019.07.13-02.43.43:608][131]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.13-02.43.43:670][131]LogInit: FAudioDevice initialized.
+[2019.07.13-02.43.43:708][131]LogLoad: Game class is 'NewGameMode_C'
+[2019.07.13-02.43.43:711][131]LogWorld: Bringing World /Game/Maps/UEDPIE_0_lvl1.lvl1 up for play (max tick rate 0) at 2019.07.12-21.43.43
+[2019.07.13-02.43.43:712][131]LogWorld: Bringing up level for play took: 0.001975
+[2019.07.13-02.43.43:727][131]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.13-02.43.43:727][131]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.13-02.43.43:727][131]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.07.13-02.43.43:729][131]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.07.13-02.43.43:729][131]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Maps/UEDPIE_0_lvl1 0,198
+[2019.07.13-02.43.43:730][131]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.43.48:620][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.43.48:694][200]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.43.48:695][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.13-02.43.48:804][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.13-02.43.48:804][200]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.43.48:894][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.13-02.43.48:905][200]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2019.07.13-02.43.48:930][201]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.07.13-02.44.17:251][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.44.49:986][233]LogHttp: Warning: 00000183EA9DE700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-02.44.49:986][233]LogHttp: Warning: 00000183EA9DE700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-02.44.49:986][233]LogHttp: Warning: 00000183EA9DE700: libcurl info message cache 1 (Closing connection 26)
+[2019.07.13-02.44.50:081][234]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-02.45.30:794][662]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.13-02.45.30:839][662]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.45.30:839][662]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.13-02.45.30:839][662]PIE: New page: Sesión PIE (reproducción en el editor): lvl1 (12/07/2019 4:45:30 p. m.)
+[2019.07.13-02.45.30:840][662]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_lvl1
+[2019.07.13-02.45.30:849][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009485s)
+[2019.07.13-02.45.30:851][662]LogAIModule: Creating AISystem for world lvl1
+[2019.07.13-02.45.30:852][662]LogPlayLevel: PIE: World Init took: (0.002253s)
+[2019.07.13-02.45.30:852][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/lvl1.lvl1 to /Game/Maps/UEDPIE_0_lvl1.lvl1 (0.012197s)
+[2019.07.13-02.45.30:955][662]LogUObjectHash: Compacting FUObjectHashTables data took   7.93ms
+[2019.07.13-02.45.30:969][662]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.13-02.45.31:031][662]LogInit: FAudioDevice initialized.
+[2019.07.13-02.45.31:064][662]LogLoad: Game class is 'NewGameMode_C'
+[2019.07.13-02.45.31:066][662]LogWorld: Bringing World /Game/Maps/UEDPIE_0_lvl1.lvl1 up for play (max tick rate 0) at 2019.07.12-21.45.31
+[2019.07.13-02.45.31:067][662]LogWorld: Bringing up level for play took: 0.001719
+[2019.07.13-02.45.31:097][662]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.13-02.45.31:097][662]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.13-02.45.31:097][662]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.07.13-02.45.31:149][662]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.07.13-02.45.31:149][662]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Maps/UEDPIE_0_lvl1 -0,382
+[2019.07.13-02.45.31:149][662]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.45.33:921][698]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.45.33:922][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.13-02.45.33:967][698]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.13-02.45.33:968][698]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.45.34:062][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.13-02.45.34:073][698]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2019.07.13-02.45.34:099][699]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.07.13-02.45.39:256][756]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.13-02.45.45:944][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.46.02:678][257]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.13-02.46.02:729][257]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.46.02:729][257]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.13-02.46.02:730][257]PIE: New page: Sesión PIE (reproducción en el editor): lvl1 (12/07/2019 4:46:02 p. m.)
+[2019.07.13-02.46.02:730][257]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_lvl1
+[2019.07.13-02.46.02:739][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008962s)
+[2019.07.13-02.46.02:741][257]LogAIModule: Creating AISystem for world lvl1
+[2019.07.13-02.46.02:741][257]LogPlayLevel: PIE: World Init took: (0.002101s)
+[2019.07.13-02.46.02:741][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/lvl1.lvl1 to /Game/Maps/UEDPIE_0_lvl1.lvl1 (0.011505s)
+[2019.07.13-02.46.02:837][257]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2019.07.13-02.46.02:850][257]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.13-02.46.02:906][257]LogInit: FAudioDevice initialized.
+[2019.07.13-02.46.02:941][257]LogLoad: Game class is 'NewGameMode_C'
+[2019.07.13-02.46.02:944][257]LogWorld: Bringing World /Game/Maps/UEDPIE_0_lvl1.lvl1 up for play (max tick rate 0) at 2019.07.12-21.46.02
+[2019.07.13-02.46.02:945][257]LogWorld: Bringing up level for play took: 0.001911
+[2019.07.13-02.46.03:042][257]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.07.13-02.46.03:043][257]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.13-02.46.03:043][257]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.13-02.46.03:043][257]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.07.13-02.46.03:044][257]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.07.13-02.46.03:044][257]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Maps/UEDPIE_0_lvl1 -0,487
+[2019.07.13-02.46.03:045][257]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.46.10:611][361]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.46.10:612][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.13-02.46.10:719][361]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.13-02.46.10:720][361]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.46.10:813][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.13-02.46.10:825][361]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2019.07.13-02.46.10:918][362]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.07.13-02.46.12:792][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.46.37:927][698]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.07.13-02.46.45:096][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.46.49:971][913]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.07.13-02.46.50:392][915]LogHttp: Warning: 00000183856565C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-02.46.50:392][915]LogHttp: Warning: 00000183856565C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-02.46.50:393][915]LogHttp: Warning: 00000183856565C0: libcurl info message cache 1 (Closing connection 27)
+[2019.07.13-02.46.50:412][916]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-02.46.57:300][987]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.07.13-02.46.59:741][ 10]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.07.13-02.47.03:450][ 47]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2019.07.13-02.47.07:468][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.47.07:565][ 89]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.13-02.47.07:622][ 89]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.47.07:622][ 89]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.13-02.47.07:623][ 89]PIE: New page: Sesión PIE (reproducción en el editor): lvl1 (12/07/2019 4:47:07 p. m.)
+[2019.07.13-02.47.07:623][ 89]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_lvl1
+[2019.07.13-02.47.07:634][ 89]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010743s)
+[2019.07.13-02.47.07:636][ 89]LogAIModule: Creating AISystem for world lvl1
+[2019.07.13-02.47.07:636][ 89]LogPlayLevel: PIE: World Init took: (0.002263s)
+[2019.07.13-02.47.07:636][ 89]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/lvl1.lvl1 to /Game/Maps/UEDPIE_0_lvl1.lvl1 (0.013443s)
+[2019.07.13-02.47.07:732][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   6.84ms
+[2019.07.13-02.47.07:746][ 89]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.13-02.47.07:807][ 89]LogInit: FAudioDevice initialized.
+[2019.07.13-02.47.07:840][ 89]LogLoad: Game class is 'NewGameMode_C'
+[2019.07.13-02.47.07:843][ 89]LogWorld: Bringing World /Game/Maps/UEDPIE_0_lvl1.lvl1 up for play (max tick rate 0) at 2019.07.12-21.47.07
+[2019.07.13-02.47.07:843][ 89]LogWorld: Bringing up level for play took: 0.001901
+[2019.07.13-02.47.07:858][ 89]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.13-02.47.07:858][ 89]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.13-02.47.07:858][ 89]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.07.13-02.47.07:860][ 89]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.07.13-02.47.07:860][ 89]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Maps/UEDPIE_0_lvl1 0,329
+[2019.07.13-02.47.07:861][ 89]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.47.44:560][564]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.47.44:561][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.13-02.47.44:670][564]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.13-02.47.44:671][564]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.47.44:763][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.13-02.47.44:775][564]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2019.07.13-02.47.44:873][565]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.07.13-02.47.49:517][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.47.54:945][735]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/protaball.protaball
+[2019.07.13-02.48.33:141][101]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'APawn::AddMovementInput' [No se ha encontrado el elemento.]
+[2019.07.13-02.48.50:449][136]LogHttp: Warning: 00000183D07D1940: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-02.48.50:449][136]LogHttp: Warning: 00000183D07D1940: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-02.48.50:449][136]LogHttp: Warning: 00000183D07D1940: libcurl info message cache 1 (Closing connection 28)
+[2019.07.13-02.48.50:464][137]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-02.50.51:100][996]LogHttp: Warning: 00000184081AC400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-02.50.51:100][996]LogHttp: Warning: 00000184081AC400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-02.50.51:100][996]LogHttp: Warning: 00000184081AC400: libcurl info message cache 1 (Closing connection 29)
+[2019.07.13-02.50.51:438][997]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-02.51.05:390][376]BlueprintLog: New page: Compilar protaball
+[2019.07.13-02.51.05:583][376]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.07.13-02.51.06:447][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/protaball" FILE="../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Blueprints/protaball.uasset" SILENT=true
+[2019.07.13-02.51.06:477][475]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/protaballB3B1337942546A593496C38737FBBBF5.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Blueprints/protaball.uasset'
+[2019.07.13-02.51.07:570][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/protaball" FILE="../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Blueprints/protaball.uasset" SILENT=true
+[2019.07.13-02.51.07:636][572]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/protaball787ECB8B44B3EDE357C09793C07AE66B.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Blueprints/protaball.uasset'
+[2019.07.13-02.51.11:041][644]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.13-02.51.11:080][644]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.51.11:080][644]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.13-02.51.11:081][644]PIE: New page: Sesión PIE (reproducción en el editor): lvl1 (12/07/2019 4:51:11 p. m.)
+[2019.07.13-02.51.11:081][644]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_lvl1
+[2019.07.13-02.51.11:091][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009979s)
+[2019.07.13-02.51.11:095][644]LogAIModule: Creating AISystem for world lvl1
+[2019.07.13-02.51.11:096][644]LogPlayLevel: PIE: World Init took: (0.004328s)
+[2019.07.13-02.51.11:096][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/lvl1.lvl1 to /Game/Maps/UEDPIE_0_lvl1.lvl1 (0.014744s)
+[2019.07.13-02.51.11:201][644]LogUObjectHash: Compacting FUObjectHashTables data took   9.86ms
+[2019.07.13-02.51.11:217][644]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.13-02.51.11:280][644]LogInit: FAudioDevice initialized.
+[2019.07.13-02.51.11:317][644]LogLoad: Game class is 'NewGameMode_C'
+[2019.07.13-02.51.11:320][644]LogWorld: Bringing World /Game/Maps/UEDPIE_0_lvl1.lvl1 up for play (max tick rate 0) at 2019.07.12-21.51.11
+[2019.07.13-02.51.11:320][644]LogWorld: Bringing up level for play took: 0.001623
+[2019.07.13-02.51.11:335][644]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.13-02.51.11:335][644]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.13-02.51.11:335][644]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.07.13-02.51.11:337][644]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.07.13-02.51.11:337][644]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Maps/UEDPIE_0_lvl1 -0,195
+[2019.07.13-02.51.11:337][644]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.51.49:334][371]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.51.49:335][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.13-02.51.49:452][371]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.13-02.51.49:453][371]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.51.49:545][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.13-02.51.49:557][371]LogUObjectHash: Compacting FUObjectHashTables data took   6.59ms
+[2019.07.13-02.51.49:659][372]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.07.13-02.51.51:961][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.51.52:254][400]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/protaball.protaball
+[2019.07.13-02.52.52:027][696]LogHttp: Warning: 000001840DEA4B80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-02.52.52:027][696]LogHttp: Warning: 000001840DEA4B80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-02.52.52:027][696]LogHttp: Warning: 000001840DEA4B80: libcurl info message cache 1 (Closing connection 30)
+[2019.07.13-02.52.52:027][696]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-02.52.56:057][948]BlueprintLog: New page: Compilar protaball
+[2019.07.13-02.52.56:248][948]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2019.07.13-02.52.57:085][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/protaball" FILE="../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Blueprints/protaball.uasset" SILENT=true
+[2019.07.13-02.52.57:111][ 44]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/protaball16B067004033E56950F19EAA43F81274.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Blueprints/protaball.uasset'
+[2019.07.13-02.53.00:041][220]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.13-02.53.00:089][220]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.53.00:090][220]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.13-02.53.00:090][220]PIE: New page: Sesión PIE (reproducción en el editor): lvl1 (12/07/2019 4:53:00 p. m.)
+[2019.07.13-02.53.00:091][220]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_lvl1
+[2019.07.13-02.53.00:101][220]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010406s)
+[2019.07.13-02.53.00:106][220]LogAIModule: Creating AISystem for world lvl1
+[2019.07.13-02.53.00:107][220]LogPlayLevel: PIE: World Init took: (0.005129s)
+[2019.07.13-02.53.00:107][220]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/lvl1.lvl1 to /Game/Maps/UEDPIE_0_lvl1.lvl1 (0.016080s)
+[2019.07.13-02.53.00:215][220]LogUObjectHash: Compacting FUObjectHashTables data took   9.72ms
+[2019.07.13-02.53.00:230][220]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.13-02.53.00:295][220]LogInit: FAudioDevice initialized.
+[2019.07.13-02.53.00:332][220]LogLoad: Game class is 'NewGameMode_C'
+[2019.07.13-02.53.00:335][220]LogWorld: Bringing World /Game/Maps/UEDPIE_0_lvl1.lvl1 up for play (max tick rate 0) at 2019.07.12-21.53.00
+[2019.07.13-02.53.00:335][220]LogWorld: Bringing up level for play took: 0.002138
+[2019.07.13-02.53.00:351][220]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.13-02.53.00:351][220]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.13-02.53.00:351][220]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.07.13-02.53.00:353][220]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.07.13-02.53.00:353][220]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Maps/UEDPIE_0_lvl1 0,822
+[2019.07.13-02.53.00:353][220]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.53.29:572][784]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.53.29:573][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.13-02.53.29:685][784]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.13-02.53.29:686][784]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.53.29:781][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.13-02.53.29:793][784]LogUObjectHash: Compacting FUObjectHashTables data took   6.46ms
+[2019.07.13-02.53.29:895][785]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.07.13-02.53.33:513][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.53.33:982][830]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/protaball.protaball
+[2019.07.13-02.53.39:549][ 65]LogEditorTransaction: Undo Crear enlace del Pin
+[2019.07.13-02.53.40:448][112]LogEditorTransaction: Undo Crear enlace del Pin
+[2019.07.13-02.53.41:212][160]LogEditorTransaction: Undo Mover nodo
+[2019.07.13-02.53.42:226][227]LogEditorTransaction: Undo Crear enlace del Pin
+[2019.07.13-02.53.42:649][251]LogEditorTransaction: Undo Crear enlace del Pin
+[2019.07.13-02.53.43:180][282]LogEditorTransaction: Undo Mover nodo
+[2019.07.13-02.53.43:697][313]LogEditorTransaction: Undo Mover nodo
+[2019.07.13-02.53.44:162][340]LogEditorTransaction: Undo Romper enlaces del nodo
+[2019.07.13-02.53.44:618][366]LogEditorTransaction: Undo Romper enlaces del nodo
+[2019.07.13-02.54.19:399][964]BlueprintLog: New page: Compilar protaball
+[2019.07.13-02.54.19:923][964]LogUObjectHash: Compacting FUObjectHashTables data took  10.12ms
+[2019.07.13-02.54.20:580][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/protaball" FILE="../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Blueprints/protaball.uasset" SILENT=true
+[2019.07.13-02.54.20:654][  0]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/protaball03341DA947977BFDF38EF4B66FADBA77.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Blueprints/protaball.uasset'
+[2019.07.13-02.54.23:315][ 62]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.13-02.54.23:363][ 62]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.54.23:363][ 62]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.13-02.54.23:363][ 62]PIE: New page: Sesión PIE (reproducción en el editor): lvl1 (12/07/2019 4:54:23 p. m.)
+[2019.07.13-02.54.23:364][ 62]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_lvl1
+[2019.07.13-02.54.23:374][ 62]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010221s)
+[2019.07.13-02.54.23:376][ 62]LogAIModule: Creating AISystem for world lvl1
+[2019.07.13-02.54.23:377][ 62]LogPlayLevel: PIE: World Init took: (0.002867s)
+[2019.07.13-02.54.23:377][ 62]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/lvl1.lvl1 to /Game/Maps/UEDPIE_0_lvl1.lvl1 (0.013671s)
+[2019.07.13-02.54.23:473][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   7.09ms
+[2019.07.13-02.54.23:487][ 62]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.13-02.54.23:546][ 62]LogInit: FAudioDevice initialized.
+[2019.07.13-02.54.23:580][ 62]LogLoad: Game class is 'NewGameMode_C'
+[2019.07.13-02.54.23:582][ 62]LogWorld: Bringing World /Game/Maps/UEDPIE_0_lvl1.lvl1 up for play (max tick rate 0) at 2019.07.12-21.54.23
+[2019.07.13-02.54.23:583][ 62]LogWorld: Bringing up level for play took: 0.001860
+[2019.07.13-02.54.23:598][ 62]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.13-02.54.23:598][ 62]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.13-02.54.23:598][ 62]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.07.13-02.54.23:600][ 62]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.07.13-02.54.23:600][ 62]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Maps/UEDPIE_0_lvl1 0,069
+[2019.07.13-02.54.23:600][ 62]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.54.40:755][472]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.54.40:755][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.13-02.54.40:867][472]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.13-02.54.40:868][472]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.54.40:970][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.13-02.54.40:983][472]LogUObjectHash: Compacting FUObjectHashTables data took   7.28ms
+[2019.07.13-02.54.41:082][473]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.07.13-02.54.43:216][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.54.52:042][105]LogHttp: Warning: 00000183D4EEDD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-02.54.52:042][105]LogHttp: Warning: 00000183D4EEDD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-02.54.52:042][105]LogHttp: Warning: 00000183D4EEDD00: libcurl info message cache 1 (Closing connection 31)
+[2019.07.13-02.54.52:056][106]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-02.54.57:786][288]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.07.13-02.55.33:202][184]LogSlate: Window 'Ajustes del proyecto' being destroyed
+[2019.07.13-02.55.33:213][184]LogSlate: Window 'Ajustes del proyecto' being destroyed
+[2019.07.13-02.55.36:665][307]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.13-02.55.36:718][307]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.55.36:719][307]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.13-02.55.36:719][307]PIE: New page: Sesión PIE (reproducción en el editor): lvl1 (12/07/2019 4:55:36 p. m.)
+[2019.07.13-02.55.36:719][307]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_lvl1
+[2019.07.13-02.55.36:730][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010856s)
+[2019.07.13-02.55.36:732][307]LogAIModule: Creating AISystem for world lvl1
+[2019.07.13-02.55.36:732][307]LogPlayLevel: PIE: World Init took: (0.002027s)
+[2019.07.13-02.55.36:733][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/lvl1.lvl1 to /Game/Maps/UEDPIE_0_lvl1.lvl1 (0.013342s)
+[2019.07.13-02.55.36:833][307]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2019.07.13-02.55.36:845][307]LogInit: XAudio2 using 'Altavoz/Auricular (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.13-02.55.36:902][307]LogInit: FAudioDevice initialized.
+[2019.07.13-02.55.36:939][307]LogLoad: Game class is 'NewGameMode_C'
+[2019.07.13-02.55.36:943][307]LogWorld: Bringing World /Game/Maps/UEDPIE_0_lvl1.lvl1 up for play (max tick rate 0) at 2019.07.12-21.55.36
+[2019.07.13-02.55.36:944][307]LogWorld: Bringing up level for play took: 0.003073
+[2019.07.13-02.55.36:958][307]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.13-02.55.36:958][307]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.07.13-02.55.36:958][307]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.07.13-02.55.36:960][307]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.07.13-02.55.36:960][307]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/Maps/UEDPIE_0_lvl1 -0,571
+[2019.07.13-02.55.36:960][307]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.55.59:013][772]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.55.59:014][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.13-02.55.59:125][772]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.13-02.55.59:126][772]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/lvl1.lvl1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1' with GeneratedClass '/Game/Maps/lvl1.lvl1_C' with ClassGeneratedBy '/Game/Maps/lvl1.lvl1:PersistentLevel.lvl1'
+[2019.07.13-02.55.59:220][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.13-02.55.59:232][772]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2019.07.13-02.55.59:332][773]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.07.13-02.56.01:250][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.56.12:559][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.56.24:178][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-02.56.26:444][ 72]LogEditorViewport: Clicking Background
+[2019.07.13-02.56.31:459][189]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.13-02.56.33:938][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/lvl1" FILE="../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Maps/lvl1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.13-02.56.33:979][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.07.13-02.56.34:183][239]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/lvl1FF26A2B1493DF95F75D112A1625A3040.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Content/Maps/lvl1.umap'
+[2019.07.13-02.56.52:526][387]LogHttp: Warning: 0000018408AE51C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-02.56.52:526][387]LogHttp: Warning: 0000018408AE51C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-02.56.52:526][387]LogHttp: Warning: 0000018408AE51C0: libcurl info message cache 1 (Closing connection 32)
+[2019.07.13-02.56.52:526][387]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
