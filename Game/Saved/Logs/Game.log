@@ -1309,3 +1309,536 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.07.13-02.56.52:526][387]LogHttp: Warning: 0000018408AE51C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
 [2019.07.13-02.56.52:526][387]LogHttp: Warning: 0000018408AE51C0: libcurl info message cache 1 (Closing connection 32)
 [2019.07.13-02.56.52:526][387]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-02.58.53:117][746]LogHttp: Warning: 0000018408AE51C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-02.58.53:117][746]LogHttp: Warning: 0000018408AE51C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-02.58.53:117][746]LogHttp: Warning: 0000018408AE51C0: libcurl info message cache 1 (Closing connection 33)
+[2019.07.13-02.58.53:449][747]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-03.00.53:890][106]LogHttp: Warning: 0000018408AE51C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-03.00.53:890][106]LogHttp: Warning: 0000018408AE51C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-03.00.53:890][106]LogHttp: Warning: 0000018408AE51C0: libcurl info message cache 1 (Closing connection 34)
+[2019.07.13-03.00.54:225][107]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-03.02.54:680][466]LogHttp: Warning: 0000018408AE51C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-03.02.54:680][466]LogHttp: Warning: 0000018408AE51C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-03.02.54:680][466]LogHttp: Warning: 0000018408AE51C0: libcurl info message cache 1 (Closing connection 35)
+[2019.07.13-03.02.55:018][467]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-03.04.55:447][826]LogHttp: Warning: 0000018408AE51C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-03.04.55:447][826]LogHttp: Warning: 0000018408AE51C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-03.04.55:447][826]LogHttp: Warning: 0000018408AE51C0: libcurl info message cache 1 (Closing connection 36)
+[2019.07.13-03.04.55:781][827]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-03.06.56:167][615]LogHttp: Warning: 00000183C33C5800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-03.06.56:167][615]LogHttp: Warning: 00000183C33C5800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-03.06.56:167][615]LogHttp: Warning: 00000183C33C5800: libcurl info message cache 1 (Closing connection 37)
+[2019.07.13-03.06.56:167][615]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-03.08.56:744][974]LogHttp: Warning: 00000183C33C5800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-03.08.56:745][974]LogHttp: Warning: 00000183C33C5800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-03.08.56:745][974]LogHttp: Warning: 00000183C33C5800: libcurl info message cache 1 (Closing connection 38)
+[2019.07.13-03.08.57:085][975]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-03.10.57:455][334]LogHttp: Warning: 00000183C33C5800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-03.10.57:455][334]LogHttp: Warning: 00000183C33C5800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-03.10.57:455][334]LogHttp: Warning: 00000183C33C5800: libcurl info message cache 1 (Closing connection 39)
+[2019.07.13-03.10.57:789][335]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-03.12.58:274][694]LogHttp: Warning: 00000183C33C5800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-03.12.58:274][694]LogHttp: Warning: 00000183C33C5800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-03.12.58:274][694]LogHttp: Warning: 00000183C33C5800: libcurl info message cache 1 (Closing connection 40)
+[2019.07.13-03.12.58:613][695]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-03.14.59:256][ 54]LogHttp: Warning: 00000183C33C5800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-03.14.59:256][ 54]LogHttp: Warning: 00000183C33C5800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-03.14.59:256][ 54]LogHttp: Warning: 00000183C33C5800: libcurl info message cache 1 (Closing connection 41)
+[2019.07.13-03.14.59:589][ 55]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-03.16.31:205][985]LogAssetTools: Warning: Fallo al importar 'C:\Users\Jimena\Desktop\DontPunchMe\blender_models\enemy.blend'. Extensión desconocida 'blend'.
+[2019.07.13-03.16.38:483][ 13]LogAssetTools: Warning: Fallo al importar 'C:\Users\Jimena\Desktop\DontPunchMe\blender_models\enemy.blend'. Extensión desconocida 'blend'.
+[2019.07.13-03.17.00:198][ 79]LogHttp: Warning: 00000183A4127240: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-03.17.00:198][ 79]LogHttp: Warning: 00000183A4127240: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-03.17.00:198][ 79]LogHttp: Warning: 00000183A4127240: libcurl info message cache 1 (Closing connection 42)
+[2019.07.13-03.17.00:198][ 79]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-03.18.10:225][312]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Jimena/Desktop/DontPunchMe/blender_models/fbx/enemy.fbx)
+[2019.07.13-03.18.10:855][312]LogFbx: Loading FBX Scene from ../../../../../../Users/Jimena/Desktop/DontPunchMe/blender_models/fbx/enemy.fbx
+[2019.07.13-03.18.11:004][312]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.13-03.18.24:984][312]LogSlate: Window 'Opciones de importación de FBX' being destroyed
+[2019.07.13-03.18.25:136][312]LogFbx: Display: Triangulating static mesh Torus.003
+[2019.07.13-03.18.25:420][312]LogStaticMesh: Generando la malla estática enemy_Torus_003...
+[2019.07.13-03.18.25:446][312]LogBlueprintActionDatabase: Requesting refresh due to module change: MeshBuilder (loaded)
+[2019.07.13-03.18.25:560][312]LogStaticMesh: Built static mesh [0.14s] /Game/Models/enemy_Torus_003.enemy_Torus_003
+[2019.07.13-03.18.25:709][312]LogFbx: Display: Triangulating static mesh Cylinder
+[2019.07.13-03.18.25:742][312]LogStaticMesh: Generando la malla estática enemy_Cylinder...
+[2019.07.13-03.18.25:748][312]LogStaticMesh: Built static mesh [0.01s] /Game/Models/enemy_Cylinder.enemy_Cylinder
+[2019.07.13-03.18.25:770][312]LogFbx: Display: Triangulating static mesh Torus
+[2019.07.13-03.18.25:832][312]LogStaticMesh: Generando la malla estática enemy_Torus...
+[2019.07.13-03.18.25:844][312]LogStaticMesh: Built static mesh [0.01s] /Game/Models/enemy_Torus.enemy_Torus
+[2019.07.13-03.18.25:870][312]LogFbx: Display: Triangulating static mesh Cube
+[2019.07.13-03.18.25:872][312]LogStaticMesh: Generando la malla estática enemy_Cube...
+[2019.07.13-03.18.25:872][312]LogStaticMesh: Built static mesh [0.00s] /Game/Models/enemy_Cube.enemy_Cube
+[2019.07.13-03.18.25:901][312]LogStaticMesh: Generando la malla estática enemy_Icosphere...
+[2019.07.13-03.18.25:902][312]LogStaticMesh: Built static mesh [0.00s] /Game/Models/enemy_Icosphere.enemy_Icosphere
+[2019.07.13-03.18.25:915][312]LogStaticMesh: Generando la malla estática enemy_Icosphere_001...
+[2019.07.13-03.18.25:916][312]LogStaticMesh: Built static mesh [0.00s] /Game/Models/enemy_Icosphere_001.enemy_Icosphere_001
+[2019.07.13-03.18.25:929][312]LogStaticMesh: Generando la malla estática enemy_Icosphere_002...
+[2019.07.13-03.18.25:930][312]LogStaticMesh: Built static mesh [0.00s] /Game/Models/enemy_Icosphere_002.enemy_Icosphere_002
+[2019.07.13-03.18.25:939][312]LogFbx: Display: Triangulating static mesh Cube.001
+[2019.07.13-03.18.25:944][312]LogStaticMesh: Generando la malla estática enemy_Cube_001...
+[2019.07.13-03.18.25:944][312]LogStaticMesh: Built static mesh [0.00s] /Game/Models/enemy_Cube_001.enemy_Cube_001
+[2019.07.13-03.18.25:954][312]LogFbx: Display: Triangulating static mesh Torus.001
+[2019.07.13-03.18.26:034][312]LogStaticMesh: Generando la malla estática enemy_Torus_001...
+[2019.07.13-03.18.26:051][312]LogStaticMesh: Built static mesh [0.02s] /Game/Models/enemy_Torus_001.enemy_Torus_001
+[2019.07.13-03.18.26:069][312]LogFbx: Display: Triangulating static mesh Torus.002
+[2019.07.13-03.18.26:138][312]LogStaticMesh: Generando la malla estática enemy_Torus_002...
+[2019.07.13-03.18.26:150][312]LogStaticMesh: Built static mesh [0.01s] /Game/Models/enemy_Torus_002.enemy_Torus_002
+[2019.07.13-03.18.26:171][312]LogStaticMesh: Generando la malla estática enemy_Icosphere_003...
+[2019.07.13-03.18.26:172][312]LogStaticMesh: Built static mesh [0.00s] /Game/Models/enemy_Icosphere_003.enemy_Icosphere_003
+[2019.07.13-03.18.26:191][312]LogFbx: Display: Triangulating static mesh Cylinder.001
+[2019.07.13-03.18.26:218][312]LogStaticMesh: Generando la malla estática enemy_Cylinder_001...
+[2019.07.13-03.18.26:223][312]LogStaticMesh: Built static mesh [0.01s] /Game/Models/enemy_Cylinder_001.enemy_Cylinder_001
+[2019.07.13-03.18.26:349][312]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.07.13-03.18.30:227][391]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2019.07.13-03.18.30:227][391]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/lvl1' took 0.095
+[2019.07.13-03.18.30:254][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/enemy_Cylinder_001] ([1] browsable assets)...
+[2019.07.13-03.18.30:295][391]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/enemy_Cylinder_001.enemy_Cylinder_001]
+[2019.07.13-03.18.30:295][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/enemy_Cylinder_001]
+[2019.07.13-03.18.30:316][391]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/enemy_Cylinder_001_Auto3F3444A124D453345EA04AAA91A21B4DF.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/Autosaves/Game/Models/enemy_Cylinder_001_Auto3.uasset'
+[2019.07.13-03.18.30:318][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/enemy_Torus_003] ([1] browsable assets)...
+[2019.07.13-03.18.30:358][391]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/enemy_Torus_003.enemy_Torus_003]
+[2019.07.13-03.18.30:358][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/enemy_Torus_003]
+[2019.07.13-03.18.30:424][391]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/enemy_Torus_003_Auto37C6F00D1422976813363E3BB31F5CE22.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/Autosaves/Game/Models/enemy_Torus_003_Auto3.uasset'
+[2019.07.13-03.18.30:429][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/enemy_Cylinder] ([1] browsable assets)...
+[2019.07.13-03.18.30:495][391]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/enemy_Cylinder.enemy_Cylinder]
+[2019.07.13-03.18.30:495][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/enemy_Cylinder]
+[2019.07.13-03.18.30:546][391]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/enemy_Cylinder_Auto3EEAA977D4526C3FECE5E248988AAB924.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/Autosaves/Game/Models/enemy_Cylinder_Auto3.uasset'
+[2019.07.13-03.18.30:550][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/enemy_Torus] ([1] browsable assets)...
+[2019.07.13-03.18.30:613][391]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/enemy_Torus.enemy_Torus]
+[2019.07.13-03.18.30:613][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/enemy_Torus]
+[2019.07.13-03.18.30:613][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/enemy_Torus" FILE="../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/Autosaves/Game/Models/enemy_Torus_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.07.13-03.18.30:654][391]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/enemy_Torus_Auto30C9B58CB44EC4F230A7B249D6A08164C.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/Autosaves/Game/Models/enemy_Torus_Auto3.uasset'
+[2019.07.13-03.18.30:657][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/enemy_Cube] ([1] browsable assets)...
+[2019.07.13-03.18.30:710][391]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/enemy_Cube.enemy_Cube]
+[2019.07.13-03.18.30:711][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/enemy_Cube]
+[2019.07.13-03.18.30:711][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/enemy_Cube" FILE="../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/Autosaves/Game/Models/enemy_Cube_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.07.13-03.18.30:754][391]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/enemy_Cube_Auto32BC317C2426C75E7F7E927A2CD22C053.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/Autosaves/Game/Models/enemy_Cube_Auto3.uasset'
+[2019.07.13-03.18.30:758][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/enemy_Icosphere] ([1] browsable assets)...
+[2019.07.13-03.18.30:821][391]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/enemy_Icosphere.enemy_Icosphere]
+[2019.07.13-03.18.30:821][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/enemy_Icosphere]
+[2019.07.13-03.18.30:849][391]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/enemy_Icosphere_Auto3AC03EDAF487259BC02CA94B3835ADE51.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/Autosaves/Game/Models/enemy_Icosphere_Auto3.uasset'
+[2019.07.13-03.18.30:850][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/enemy_Icosphere_001] ([1] browsable assets)...
+[2019.07.13-03.18.30:891][391]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/enemy_Icosphere_001.enemy_Icosphere_001]
+[2019.07.13-03.18.30:891][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/enemy_Icosphere_001]
+[2019.07.13-03.18.30:909][391]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/enemy_Icosphere_001_Auto379CD2A1E421146E122CB559AA16B462A.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/Autosaves/Game/Models/enemy_Icosphere_001_Auto3.uasset'
+[2019.07.13-03.18.30:910][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/enemy_Icosphere_002] ([1] browsable assets)...
+[2019.07.13-03.18.30:960][391]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/enemy_Icosphere_002.enemy_Icosphere_002]
+[2019.07.13-03.18.30:960][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/enemy_Icosphere_002]
+[2019.07.13-03.18.30:985][391]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/enemy_Icosphere_002_Auto3DE308BA749F83FC0796500BBD77F85F7.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/Autosaves/Game/Models/enemy_Icosphere_002_Auto3.uasset'
+[2019.07.13-03.18.30:986][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/enemy_Cube_001] ([1] browsable assets)...
+[2019.07.13-03.18.31:027][391]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/enemy_Cube_001.enemy_Cube_001]
+[2019.07.13-03.18.31:027][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/enemy_Cube_001]
+[2019.07.13-03.18.31:064][391]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/enemy_Cube_001_Auto3553642464671BF88F6E353A6619D7470.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/Autosaves/Game/Models/enemy_Cube_001_Auto3.uasset'
+[2019.07.13-03.18.31:066][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/enemy_Torus_001] ([1] browsable assets)...
+[2019.07.13-03.18.31:126][391]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/enemy_Torus_001.enemy_Torus_001]
+[2019.07.13-03.18.31:126][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/enemy_Torus_001]
+[2019.07.13-03.18.31:179][391]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/enemy_Torus_001_Auto3F89310DA40813AE4F49634B4B4A3B9FA.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/Autosaves/Game/Models/enemy_Torus_001_Auto3.uasset'
+[2019.07.13-03.18.31:180][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/enemy_Torus_002] ([1] browsable assets)...
+[2019.07.13-03.18.31:223][391]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/enemy_Torus_002.enemy_Torus_002]
+[2019.07.13-03.18.31:223][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/enemy_Torus_002]
+[2019.07.13-03.18.31:246][391]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/enemy_Torus_002_Auto335698ABC4BD160F8D212AA8DF0CE1E83.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/Autosaves/Game/Models/enemy_Torus_002_Auto3.uasset'
+[2019.07.13-03.18.31:247][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/enemy_Icosphere_003] ([1] browsable assets)...
+[2019.07.13-03.18.31:289][391]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/enemy_Icosphere_003.enemy_Icosphere_003]
+[2019.07.13-03.18.31:289][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/enemy_Icosphere_003]
+[2019.07.13-03.18.31:311][391]LogSavePackage: Moving '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/enemy_Icosphere_003_Auto33E559F794CDA053D59BEE9BA5083435D.tmp' to '../../../../../../Users/Jimena/Desktop/DontPunchMe/Game/Saved/Autosaves/Game/Models/enemy_Icosphere_003_Auto3.uasset'
+[2019.07.13-03.18.31:312][391]LogFileHelpers: Auto-saving content packages took 1.084
+[2019.07.13-03.18.59:939][129]LogSlate: Window 'Registro del mensaje' being destroyed
+[2019.07.13-03.19.00:046][129]LogSlate: Window 'Registro del mensaje' being destroyed
+[2019.07.13-03.19.00:529][133]LogHttp: Warning: 00000183DE552480: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-03.19.00:529][133]LogHttp: Warning: 00000183DE552480: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-03.19.00:529][133]LogHttp: Warning: 00000183DE552480: libcurl info message cache 1 (Closing connection 43)
+[2019.07.13-03.19.00:529][133]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-03.19.38:359][451]LogActorFactory: Actor Factory created enemy_Icosphere
+[2019.07.13-03.19.45:726][530]LogActorFactory: Actor Factory created enemy_Icosphere
+[2019.07.13-03.20.00:393][684]LogEditorViewport: Clicking Background
+[2019.07.13-03.20.02:496][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (enemy_Icosphere)
+[2019.07.13-03.20.04:291][724]Cmd: DELETE
+[2019.07.13-03.20.04:291][724]Cmd: ACTOR DELETE
+[2019.07.13-03.20.04:301][724]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.13-03.20.04:466][724]LogUObjectHash: Compacting FUObjectHashTables data took  13.43ms
+[2019.07.13-03.20.04:467][724]LogEditorActor: Deleted 1 Actors (0.174 secs)
+[2019.07.13-03.20.06:046][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.13-03.20.09:099][759]Cmd: TRANSACTION UNDO
+[2019.07.13-03.20.09:099][759]LogEditorTransaction: Undo Eliminar actores
+[2019.07.13-03.20.09:675][764]Cmd: TRANSACTION UNDO
+[2019.07.13-03.20.09:675][764]LogEditorTransaction: Undo Pinchar en los actores
+[2019.07.13-03.20.10:366][771]Cmd: TRANSACTION UNDO
+[2019.07.13-03.20.10:366][771]LogEditorTransaction: Undo Pinchar en el fondo
+[2019.07.13-03.20.11:000][777]Cmd: TRANSACTION UNDO
+[2019.07.13-03.20.11:000][777]LogEditorTransaction: Undo Move Actors
+[2019.07.13-03.20.11:635][783]Cmd: TRANSACTION UNDO
+[2019.07.13-03.20.11:635][783]LogEditorTransaction: Undo Crear actores
+[2019.07.13-03.20.25:183][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.07.13-03.20.35:553][964]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.13-03.20.35:935][964]LogUObjectHash: Compacting FUObjectHashTables data took   7.86ms
+[2019.07.13-03.21.01:001][200]LogHttp: Warning: 00000183F5D58A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-03.21.01:001][200]LogHttp: Warning: 00000183F5D58A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-03.21.01:001][200]LogHttp: Warning: 00000183F5D58A40: libcurl info message cache 1 (Closing connection 44)
+[2019.07.13-03.21.01:335][201]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-03.23.01:877][668]LogHttp: Warning: 00000183DAAF3B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-03.23.01:878][668]LogHttp: Warning: 00000183DAAF3B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-03.23.01:878][668]LogHttp: Warning: 00000183DAAF3B00: libcurl info message cache 1 (Closing connection 45)
+[2019.07.13-03.23.02:215][669]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-03.25.01:145][ 14]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Jimena/Desktop/DontPunchMe/blender_models/fbx/enemy.fbx_Scene/enemy.fbx_Scene.fbx)
+[2019.07.13-03.25.01:162][ 14]LogFbx: Loading FBX Scene from ../../../../../../Users/Jimena/Desktop/DontPunchMe/blender_models/fbx/enemy.fbx_Scene/enemy.fbx_Scene.fbx
+[2019.07.13-03.25.01:169][ 14]LogFbx: FBX Scene Loaded Succesfully
+[2019.07.13-03.25.01:172][ 14]FBXImport: Warning: Can't detect import type. No mesh is found or animation track. 
+[2019.07.13-03.25.11:835][ 14]LogSlate: Window 'Mensaje' being destroyed
+[2019.07.13-03.25.11:839][ 14]LogAssetTools: Warning: Failed to import '../../../../../../Users/Jimena/Desktop/DontPunchMe/blender_models/fbx/enemy.fbx_Scene/enemy.fbx_Scene.fbx'. Failed to create asset '/Game/Models/enemy_fbx_Scene'.
+Please see Output Log for details.
+[2019.07.13-03.25.11:935][ 18]LogHttp: Warning: 00000183F4433880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-03.25.11:935][ 18]LogHttp: Warning: 00000183F4433880: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-03.25.11:935][ 18]LogHttp: Warning: 00000183F4433880: libcurl info message cache 1 (Closing connection 46)
+[2019.07.13-03.25.11:990][ 19]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.13-03.25.20:869][274]LogSlate: Window 'Registro del mensaje' being destroyed
+[2019.07.13-03.25.20:908][274]LogSlate: Window 'Registro del mensaje' being destroyed
+[2019.07.13-03.25.30:851][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.07.13-03.25.30:992][418]LogSlate: Window 'Game - Unreal Editor' being destroyed
+[2019.07.13-03.25.30:992][418]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.07.13-03.25.31:270][419]Cmd: QUIT_EDITOR
+[2019.07.13-03.25.31:961][419]LogExit: Preparing to exit.
+[2019.07.13-03.25.32:766][419]LogExit: Editor shut down
+[2019.07.13-03.25.32:767][419]LogExit: Transaction tracking system shut down
+[2019.07.13-03.25.33:221][419]LogExit: Object subsystem successfully closed.
+[2019.07.13-03.25.33:260][419]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.07.13-03.25.33:282][419]LogD3D11RHI: Shutdown
+[2019.07.13-03.25.33:282][419]LogD3D11RHI: CleanupD3DDevice
+[2019.07.13-03.25.33:284][419]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.07.13-03.25.33:284][419]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.07.13-03.25.33:284][419]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.07.13-03.25.33:284][419]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.07.13-03.25.33:284][419]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.07.13-03.25.33:284][419]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.07.13-03.25.33:481][419]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.07.13-03.25.33:521][419]LogModuleManager: Shutting down and abandoning module MeshBuilder (654)
+[2019.07.13-03.25.33:521][419]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (652)
+[2019.07.13-03.25.33:521][419]LogModuleManager: Shutting down and abandoning module BlueprintGraph (650)
+[2019.07.13-03.25.33:521][419]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (648)
+[2019.07.13-03.25.33:521][419]LogModuleManager: Shutting down and abandoning module Voice (646)
+[2019.07.13-03.25.33:521][419]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2019.07.13-03.25.33:533][419]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2019.07.13-03.25.33:533][419]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2019.07.13-03.25.33:538][419]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2019.07.13-03.25.33:538][419]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2019.07.13-03.25.33:538][419]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2019.07.13-03.25.33:538][419]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (632)
+[2019.07.13-03.25.33:538][419]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.07.13-03.25.33:538][419]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.07.13-03.25.33:538][419]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.07.13-03.25.33:538][419]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.07.13-03.25.33:538][419]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.07.13-03.25.33:539][419]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.07.13-03.25.33:539][419]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.07.13-03.25.33:539][419]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.07.13-03.25.33:539][419]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.07.13-03.25.33:539][419]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.07.13-03.25.33:539][419]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.07.13-03.25.33:539][419]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.07.13-03.25.33:539][419]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.07.13-03.25.33:539][419]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.07.13-03.25.33:539][419]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.07.13-03.25.33:539][419]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.07.13-03.25.33:539][419]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.07.13-03.25.33:539][419]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.07.13-03.25.33:539][419]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.07.13-03.25.33:540][419]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.07.13-03.25.33:540][419]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.07.13-03.25.33:540][419]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.07.13-03.25.33:540][419]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.07.13-03.25.33:540][419]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.07.13-03.25.33:540][419]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.07.13-03.25.33:540][419]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.07.13-03.25.33:540][419]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.07.13-03.25.33:540][419]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.07.13-03.25.33:540][419]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.07.13-03.25.33:540][419]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.07.13-03.25.33:540][419]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.07.13-03.25.33:540][419]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.07.13-03.25.33:540][419]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.07.13-03.25.33:540][419]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.07.13-03.25.33:540][419]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.07.13-03.25.33:540][419]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.07.13-03.25.33:540][419]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.07.13-03.25.33:540][419]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.07.13-03.25.33:540][419]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.07.13-03.25.33:540][419]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.07.13-03.25.33:540][419]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.07.13-03.25.33:540][419]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.07.13-03.25.33:540][419]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.07.13-03.25.33:540][419]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.07.13-03.25.33:541][419]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.07.13-03.25.33:541][419]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.07.13-03.25.33:541][419]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.07.13-03.25.33:541][419]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.07.13-03.25.33:541][419]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.07.13-03.25.33:541][419]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.07.13-03.25.33:541][419]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.07.13-03.25.33:541][419]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.07.13-03.25.33:541][419]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.07.13-03.25.33:541][419]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.07.13-03.25.33:958][419]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.07.13-03.25.33:958][419]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.07.13-03.25.33:958][419]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.07.13-03.25.33:959][419]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.07.13-03.25.33:959][419]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.07.13-03.25.33:959][419]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.07.13-03.25.33:959][419]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.07.13-03.25.33:959][419]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.07.13-03.25.33:959][419]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.07.13-03.25.33:959][419]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.07.13-03.25.33:959][419]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.07.13-03.25.33:959][419]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.07.13-03.25.33:959][419]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.07.13-03.25.33:959][419]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.07.13-03.25.33:959][419]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.07.13-03.25.33:959][419]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.07.13-03.25.33:959][419]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.07.13-03.25.33:960][419]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.07.13-03.25.33:960][419]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.07.13-03.25.33:960][419]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.07.13-03.25.33:960][419]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.07.13-03.25.33:960][419]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.07.13-03.25.33:960][419]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.07.13-03.25.34:015][419]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.07.13-03.25.34:015][419]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.07.13-03.25.34:015][419]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.07.13-03.25.34:015][419]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.07.13-03.25.34:015][419]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.07.13-03.25.34:015][419]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.07.13-03.25.34:015][419]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.07.13-03.25.34:015][419]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.07.13-03.25.34:015][419]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.07.13-03.25.34:015][419]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.07.13-03.25.34:015][419]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.07.13-03.25.34:027][419]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.07.13-03.25.34:028][419]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.07.13-03.25.34:030][419]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.07.13-03.25.34:030][419]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.07.13-03.25.34:030][419]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.07.13-03.25.34:030][419]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.07.13-03.25.34:030][419]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.07.13-03.25.34:030][419]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.07.13-03.25.34:031][419]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.07.13-03.25.34:031][419]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.07.13-03.25.34:031][419]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.07.13-03.25.34:031][419]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.07.13-03.25.34:031][419]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.07.13-03.25.34:031][419]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.07.13-03.25.34:031][419]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.07.13-03.25.34:031][419]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.07.13-03.25.34:031][419]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.07.13-03.25.34:031][419]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.07.13-03.25.34:031][419]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.07.13-03.25.34:031][419]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.07.13-03.25.34:031][419]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.07.13-03.25.34:031][419]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.07.13-03.25.34:031][419]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.07.13-03.25.34:031][419]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.07.13-03.25.34:036][419]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.07.13-03.25.34:250][419]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.07.13-03.25.34:251][419]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.07.13-03.25.34:252][419]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.07.13-03.25.34:252][419]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.07.13-03.25.34:252][419]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.07.13-03.25.34:252][419]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.07.13-03.25.34:252][419]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.07.13-03.25.34:252][419]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.07.13-03.25.34:252][419]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.07.13-03.25.34:252][419]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.07.13-03.25.34:252][419]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.07.13-03.25.34:252][419]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.07.13-03.25.34:252][419]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.07.13-03.25.34:252][419]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.07.13-03.25.34:252][419]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.07.13-03.25.34:252][419]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.07.13-03.25.34:252][419]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.07.13-03.25.34:252][419]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.07.13-03.25.34:252][419]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.07.13-03.25.34:252][419]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.07.13-03.25.34:252][419]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.07.13-03.25.34:253][419]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.07.13-03.25.34:253][419]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.07.13-03.25.34:253][419]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.07.13-03.25.34:253][419]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.07.13-03.25.34:253][419]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.07.13-03.25.34:253][419]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.07.13-03.25.34:253][419]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.07.13-03.25.34:353][419]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.07.13-03.25.34:454][419]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.07.13-03.25.34:454][419]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.07.13-03.25.34:454][419]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.07.13-03.25.34:454][419]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.07.13-03.25.34:454][419]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.07.13-03.25.34:455][419]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.07.13-03.25.34:455][419]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.07.13-03.25.34:455][419]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.07.13-03.25.34:455][419]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.07.13-03.25.34:455][419]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.07.13-03.25.34:455][419]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.07.13-03.25.34:455][419]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.07.13-03.25.34:455][419]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.07.13-03.25.34:456][419]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.07.13-03.25.34:459][419]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.07.13-03.25.34:459][419]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.07.13-03.25.34:460][419]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.07.13-03.25.34:460][419]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.07.13-03.25.34:461][419]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.07.13-03.25.34:465][419]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.07.13-03.25.34:465][419]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.07.13-03.25.34:465][419]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.07.13-03.25.34:465][419]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.07.13-03.25.34:465][419]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.07.13-03.25.34:465][419]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.07.13-03.25.34:465][419]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.07.13-03.25.34:465][419]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.07.13-03.25.34:466][419]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.07.13-03.25.34:466][419]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.07.13-03.25.34:466][419]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.07.13-03.25.34:466][419]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.07.13-03.25.34:466][419]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.07.13-03.25.34:466][419]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.07.13-03.25.34:466][419]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.07.13-03.25.34:466][419]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.07.13-03.25.34:466][419]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.07.13-03.25.34:466][419]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.07.13-03.25.34:466][419]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.07.13-03.25.34:466][419]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.07.13-03.25.34:466][419]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.07.13-03.25.34:467][419]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.07.13-03.25.34:467][419]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.07.13-03.25.34:467][419]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.07.13-03.25.34:467][419]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.07.13-03.25.34:467][419]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.07.13-03.25.34:467][419]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.07.13-03.25.34:474][419]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.07.13-03.25.34:474][419]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.07.13-03.25.34:474][419]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.07.13-03.25.34:474][419]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.07.13-03.25.34:474][419]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.07.13-03.25.34:474][419]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.07.13-03.25.34:474][419]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.07.13-03.25.34:474][419]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.07.13-03.25.34:474][419]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.07.13-03.25.34:474][419]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.07.13-03.25.34:474][419]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.07.13-03.25.34:474][419]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.07.13-03.25.34:474][419]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.07.13-03.25.34:475][419]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.07.13-03.25.34:475][419]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.07.13-03.25.34:475][419]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.07.13-03.25.34:512][419]LogDerivedDataCache: Shutdown
+[2019.07.13-03.25.34:512][419]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.07.13-03.25.34:513][419]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.07.13-03.25.34:513][419]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.07.13-03.25.34:513][419]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.07.13-03.25.34:513][419]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.07.13-03.25.34:514][419]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.07.13-03.25.34:514][419]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.07.13-03.25.34:514][419]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.07.13-03.25.34:514][419]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.07.13-03.25.34:514][419]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.07.13-03.25.34:514][419]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.07.13-03.25.34:515][419]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.07.13-03.25.34:515][419]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.07.13-03.25.34:515][419]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.07.13-03.25.34:515][419]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.07.13-03.25.34:515][419]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.07.13-03.25.34:515][419]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.07.13-03.25.34:515][419]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.07.13-03.25.34:530][419]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.07.13-03.25.34:530][419]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.07.13-03.25.34:530][419]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.07.13-03.25.34:530][419]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.07.13-03.25.34:530][419]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.07.13-03.25.34:535][419]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.07.13-03.25.34:535][419]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.07.13-03.25.34:542][419]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.07.13-03.25.34:543][419]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.07.13-03.25.34:572][419]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.07.13-03.25.34:573][419]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.07.13-03.25.34:573][419]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.07.13-03.25.34:573][419]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.07.13-03.25.34:573][419]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.07.13-03.25.34:573][419]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.07.13-03.25.34:573][419]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.07.13-03.25.34:573][419]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.07.13-03.25.34:573][419]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.07.13-03.25.34:573][419]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.07.13-03.25.34:573][419]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.07.13-03.25.34:573][419]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.07.13-03.25.34:574][419]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.07.13-03.25.34:574][419]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.07.13-03.25.34:574][419]LogHMD: Freeing OpenVRDLLHandle.
+[2019.07.13-03.25.34:574][419]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.07.13-03.25.34:574][419]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.07.13-03.25.34:574][419]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.07.13-03.25.34:574][419]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.07.13-03.25.34:574][419]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.07.13-03.25.34:576][419]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.07.13-03.25.34:576][419]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.07.13-03.25.34:594][419]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.07.13-03.25.34:594][419]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.07.13-03.25.34:594][419]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4A0877FB-455A-BF25-CB16-0DAE05925D18%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=1610cdb14597cef7f98770aee4da103a%7Cf0627b6131ae4843b78fe3ef9df22e8e%7C1d5d0835-bc38-45f6-bf0f-f316e1bd79f7&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.07.13-03.25.34:594][419]LogHttp: Warning: 00000183DAAF3EC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-03.25.34:594][419]LogHttp: Warning: 00000183DAAF3EC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-03.25.34:594][419]LogHttp: Warning: 00000183DAAF3EC0: libcurl info message cache 1 (Closing connection 47)
+[2019.07.13-03.25.34:627][419]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.07.13-03.25.34:632][419]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.07.13-03.25.34:641][419]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.07.13-03.25.34:649][419]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.07.13-03.25.34:649][419]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.07.13-03.25.34:650][419]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.07.13-03.25.34:651][419]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.07.13-03.25.34:651][419]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.07.13-03.25.34:651][419]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.07.13-03.25.34:652][419]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.07.13-03.25.34:652][419]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.07.13-03.25.34:652][419]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.07.13-03.25.34:657][419]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.07.13-03.25.34:658][419]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.07.13-03.25.34:658][419]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.07.13-03.25.34:658][419]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.07.13-03.25.34:658][419]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.07.13-03.25.34:658][419]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.07.13-03.25.34:658][419]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.07.13-03.25.34:658][419]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.07.13-03.25.34:658][419]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.07.13-03.25.34:658][419]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.07.13-03.25.34:658][419]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.07.13-03.25.34:658][419]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.07.13-03.25.34:666][419]LogExit: Exiting.
+[2019.07.13-03.25.34:724][419]Log file closed, 07/12/19 22:25:34
